@@ -1,0 +1,1828 @@
+Year,Continent ID,Continent,Country ID,Country,Trade Value
+2021,af,Africa,afago,Angola,1876081
+2021,af,Africa,afbdi,Burundi,863324
+2021,af,Africa,afbfa,Burkina Faso,2527373
+2021,af,Africa,afbwa,Botswana,15410
+2021,af,Africa,afcaf,Central African Republic,385643
+2021,af,Africa,afciv,Cote d'Ivoire,159658
+2021,af,Africa,afcmr,Cameroon,2236985
+2021,af,Africa,afcod,Democratic Republic of the Congo,1180005
+2021,af,Africa,afcog,Republic of the Congo,63345
+2021,af,Africa,afcom,Comoros,575266
+2021,af,Africa,afdji,Djibouti,266172
+2021,af,Africa,afdza,Algeria,157000
+2021,af,Africa,afegy,Egypt,31163726
+2021,af,Africa,afeth,Ethiopia,9782529
+2021,af,Africa,afgab,Gabon,199773
+2021,af,Africa,afgha,Ghana,316325
+2021,af,Africa,afgmb,Gambia,159186
+2021,af,Africa,afken,Kenya,9800024
+2021,af,Africa,aflbr,Liberia,127753
+2021,af,Africa,aflby,Libya,15667168
+2021,af,Africa,afmar,Morocco,5588041
+2021,af,Africa,afmdg,Madagascar,272377
+2021,af,Africa,afmli,Mali,677600
+2021,af,Africa,afmoz,Mozambique,2389049
+2021,af,Africa,afmrt,Mauritania,742858
+2021,af,Africa,afmus,Mauritius,2692783
+2021,af,Africa,afmwi,Malawi,248417
+2021,af,Africa,afnam,Namibia,27639
+2021,af,Africa,afner,Niger,297182
+2021,af,Africa,afnga,Nigeria,2348531
+2021,af,Africa,afrwa,Rwanda,1534737
+2021,af,Africa,afsdn,Sudan,4770260
+2021,af,Africa,afsen,Senegal,3594987
+2021,af,Africa,afssd,South Sudan,1759661
+2021,af,Africa,afstp,Sao Tome and Principe,415648
+2021,af,Africa,afswz,Eswatini,153131
+2021,af,Africa,aftgo,Togo,921702
+2021,af,Africa,aftun,Tunisia,10124369
+2021,af,Africa,aftza,Tanzania,2942005
+2021,af,Africa,afuga,Uganda,2639615
+2021,af,Africa,afzaf,South Africa,50237191
+2021,af,Africa,afzmb,Zambia,1114013
+2021,af,Africa,afzwe,Zimbabwe,224870
+2021,as,Asia,asafg,Afghanistan,3594967
+2021,as,Asia,asare,United Arab Emirates,484504660
+2021,as,Asia,asarm,Armenia,533168
+2021,as,Asia,asaze,Azerbaijan,4379834
+2021,as,Asia,asbgd,Bangladesh,22150507
+2021,as,Asia,asbhr,Bahrain,19221673
+2021,as,Asia,asbrn,Brunei,23064194
+2021,as,Asia,asbtn,Bhutan,733580
+2021,as,Asia,aschn,China,947400701
+2021,as,Asia,ascyp,Cyprus,313907
+2021,as,Asia,asgeo,Georgia,2051783
+2021,as,Asia,ashkg,Hong Kong,3051677
+2021,as,Asia,asidn,Indonesia,207335339
+2021,as,Asia,asind,India,657642
+2021,as,Asia,asirn,Iran,46953
+2021,as,Asia,asirq,Iraq,80768590
+2021,as,Asia,asisr,Israel,129495859
+2021,as,Asia,asjor,Jordan,37493455
+2021,as,Asia,asjpn,Japan,1014952174
+2021,as,Asia,askaz,Kazakhstan,18501175
+2021,as,Asia,askgz,Kyrgyzstan,4438
+2021,as,Asia,askhm,Cambodia,142347428
+2021,as,Asia,askor,South Korea,770872
+2021,as,Asia,askwt,Kuwait,57071375
+2021,as,Asia,aslao,Laos,175520642
+2021,as,Asia,aslbn,Lebanon,17609987
+2021,as,Asia,aslka,Sri Lanka,233180
+2021,as,Asia,asmac,Macau,16981
+2021,as,Asia,asmdv,Maldives,25384
+2021,as,Asia,asmmr,Burma,105809881
+2021,as,Asia,asmng,Mongolia,308141
+2021,as,Asia,asmys,Malaysia,127616231
+2021,as,Asia,asnpl,Nepal,7464117
+2021,as,Asia,asomn,Oman,155776381
+2021,as,Asia,aspak,Pakistan,200666518
+2021,as,Asia,asphl,Philippines,834269036
+2021,as,Asia,aspse,Palestine,2090357
+2021,as,Asia,asqat,Qatar,47523455
+2021,as,Asia,assau,Saudi Arabia,539816204
+2021,as,Asia,assgp,Singapore,46782280
+2021,as,Asia,astjk,Tajikistan,471380
+2021,as,Asia,astkm,Turkmenistan,677727
+2021,as,Asia,astls,Timor-Leste,4707998
+2021,as,Asia,astur,Turkey,190701023
+2021,as,Asia,asuzb,Uzbekistan,7413452
+2021,as,Asia,asvnm,Vietnam,1075016510
+2021,as,Asia,asxxb,Chinese Taipei,60137048
+2021,as,Asia,asyem,Yemen,60790068
+2021,eu,Europe,eualb,Albania,14653
+2021,eu,Europe,euaut,Austria,13681707
+2021,eu,Europe,eubel,Belgium,2722511
+2021,eu,Europe,eubgr,Bulgaria,1426199
+2021,eu,Europe,eubih,Bosnia and Herzegovina,17032
+2021,eu,Europe,euche,Switzerland,6913505
+2021,eu,Europe,eucze,Czechia,5125995
+2021,eu,Europe,eudeu,Germany,201108240
+2021,eu,Europe,eudnk,Denmark,69450
+2021,eu,Europe,euesp,Spain,8524623
+2021,eu,Europe,eufin,Finland,218127
+2021,eu,Europe,eufra,France,51418961
+2021,eu,Europe,eugbr,United Kingdom,2238816
+2021,eu,Europe,eugrc,Greece,2980308
+2021,eu,Europe,euhrv,Croatia,392458
+2021,eu,Europe,euhun,Hungary,977963
+2021,eu,Europe,euirl,Ireland,992219
+2021,eu,Europe,euisl,Iceland,605000
+2021,eu,Europe,euita,Italy,20415163
+2021,eu,Europe,eultu,Lithuania,12980
+2021,eu,Europe,eulux,Luxembourg,15693
+2021,eu,Europe,eulva,Latvia,260456
+2021,eu,Europe,eumda,Moldova,668258
+2021,eu,Europe,eumkd,North Macedonia,787370
+2021,eu,Europe,eumlt,Malta,1247766
+2021,eu,Europe,eumne,Montenegro,10299
+2021,eu,Europe,eunld,Netherlands,14349390
+2021,eu,Europe,eupol,Poland,8380584
+2021,eu,Europe,euprt,Portugal,8234045
+2021,eu,Europe,eurou,Romania,660876
+2021,eu,Europe,eurus,Russia,147727398
+2021,eu,Europe,eusrb,Serbia,9921
+2021,eu,Europe,eusvk,Slovakia,1201441
+2021,eu,Europe,eusvn,Slovenia,606235
+2021,eu,Europe,euswe,Sweden,1231752
+2021,eu,Europe,euukr,Ukraine,21779736
+2021,na,North America,naabw,Aruba,102256
+2021,na,North America,naatg,Antigua and Barbuda,983828
+2021,na,North America,nabhs,Bahamas,129560
+2021,na,North America,nablz,Belize,24595
+2021,na,North America,nabmu,Bermuda,828495
+2021,na,North America,nabrb,Barbados,4496422
+2021,na,North America,nacan,Canada,6801825
+2021,na,North America,nacri,Costa Rica,18271303
+2021,na,North America,nacub,Cuba,24994
+2021,na,North America,nacuw,Curaï¿½ï,1220690
+2021,na,North America,nacym,Cayman Islands,5566509
+2021,na,North America,nadma,Dominica,318663
+2021,na,North America,nadom,Dominican Republic,2045532
+2021,na,North America,nagrd,Grenada,1115981
+2021,na,North America,nagtm,Guatemala,15916710
+2021,na,North America,nahnd,Honduras,5255160
+2021,na,North America,nahti,Haiti,1949957
+2021,na,North America,najam,Jamaica,32965096
+2021,na,North America,nakna,Saint Kitts and Nevis,2033891
+2021,na,North America,nalca,Saint Lucia,3080065
+2021,na,North America,namaf,Saint Martin,278006
+2021,na,North America,namex,Mexico,408708958
+2021,na,North America,namsr,Montserrat,36318
+2021,na,North America,nanic,Nicaragua,5258950
+2021,na,North America,napan,Panama,17181553
+2021,na,North America,naslv,El Salvador,5787066
+2021,na,North America,natca,Turks and Caicos Islands,895934
+2021,na,North America,natto,Trinidad and Tobago,28963822
+2021,na,North America,nausa,United States,218584689
+2021,na,North America,navct,Saint Vincent and the Grenadines,244737
+2021,oc,Oceania,ocaus,Australia,2035270003
+2021,oc,Oceania,occok,Cook Islands,61592
+2021,oc,Oceania,ocfji,Fiji,8460550
+2021,oc,Oceania,ocgum,Guam,992142
+2021,oc,Oceania,ockir,Kiribati,118687
+2021,oc,Oceania,ocmhl,Marshall Islands,128112
+2021,oc,Oceania,ocmnp,Northern Mariana Islands,182061
+2021,oc,Oceania,ocncl,New Caledonia,8670729
+2021,oc,Oceania,ocnru,Nauru,81275
+2021,oc,Oceania,ocnzl,New Zealand,287388701
+2021,oc,Oceania,ocplw,Palau,179352
+2021,oc,Oceania,ocpng,Papua New Guinea,9852117
+2021,oc,Oceania,ocpyf,French Polynesia,7777306
+2021,oc,Oceania,ocslb,Solomon Islands,761600
+2021,oc,Oceania,octon,Tonga,392656
+2021,oc,Oceania,ocvut,Vanuatu,2750629
+2021,oc,Oceania,ocwsm,Samoa,1383713
+2021,sa,South America,sabol,Bolivia,4139237
+2021,sa,South America,sabra,Brazil,35989913
+2021,sa,South America,sachl,Chile,66503421
+2021,sa,South America,sacol,Colombia,4882799
+2021,sa,South America,saecu,Ecuador,13325969
+2021,sa,South America,saguy,Guyana,3458287
+2021,sa,South America,saper,Peru,43846969
+2021,sa,South America,sapry,Paraguay,1821087
+2021,sa,South America,sasur,Suriname,6003852
+2021,sa,South America,saury,Uruguay,104226
+2021,sa,South America,saven,Venezuela,3631404
+2020,af,Africa,afago,Angola,1291656
+2020,af,Africa,afbdi,Burundi,890265
+2020,af,Africa,afben,Benin,84981
+2020,af,Africa,afbfa,Burkina Faso,2440592
+2020,af,Africa,afbwa,Botswana,78357
+2020,af,Africa,afcaf,Central African Republic,190727
+2020,af,Africa,afciv,Cote d'Ivoire,2285281
+2020,af,Africa,afcmr,Cameroon,2341240
+2020,af,Africa,afcod,Democratic Republic of the Congo,880561
+2020,af,Africa,afcog,Republic of the Congo,139890
+2020,af,Africa,afcom,Comoros,139414
+2020,af,Africa,afcpv,Cape Verde,57399
+2020,af,Africa,afdji,Djibouti,829279
+2020,af,Africa,afdza,Algeria,723543
+2020,af,Africa,afegy,Egypt,24818120
+2020,af,Africa,afeth,Ethiopia,5884329
+2020,af,Africa,afgab,Gabon,228460
+2020,af,Africa,afgha,Ghana,860906
+2020,af,Africa,afgin,Guinea,26720
+2020,af,Africa,afgmb,Gambia,76370
+2020,af,Africa,afken,Kenya,4416605
+2020,af,Africa,aflbr,Liberia,47243
+2020,af,Africa,aflby,Libya,5014083
+2020,af,Africa,aflso,Lesotho,49280
+2020,af,Africa,afmar,Morocco,1985603
+2020,af,Africa,afmdg,Madagascar,985380
+2020,af,Africa,afmli,Mali,240480
+2020,af,Africa,afmoz,Mozambique,1183643
+2020,af,Africa,afmrt,Mauritania,276847
+2020,af,Africa,afmus,Mauritius,2206432
+2020,af,Africa,afmwi,Malawi,784625
+2020,af,Africa,afnam,Namibia,423784
+2020,af,Africa,afner,Niger,468003
+2020,af,Africa,afnga,Nigeria,2982096
+2020,af,Africa,afrwa,Rwanda,1505804
+2020,af,Africa,afsdn,Sudan,9243292
+2020,af,Africa,afsen,Senegal,2509228
+2020,af,Africa,afssd,South Sudan,368186
+2020,af,Africa,afstp,Sao Tome and Principe,368968
+2020,af,Africa,afswz,Eswatini,44827
+2020,af,Africa,afsyc,Seychelles,230400
+2020,af,Africa,aftgo,Togo,962114
+2020,af,Africa,aftun,Tunisia,6220425
+2020,af,Africa,aftza,Tanzania,346034
+2020,af,Africa,afuga,Uganda,2723312
+2020,af,Africa,afzaf,South Africa,38861530
+2020,af,Africa,afzmb,Zambia,1307861
+2020,af,Africa,afzwe,Zimbabwe,76728
+2020,as,Asia,asafg,Afghanistan,2816948
+2020,as,Asia,asare,United Arab Emirates,300685073
+2020,as,Asia,asarm,Armenia,613287
+2020,as,Asia,asaze,Azerbaijan,2059572
+2020,as,Asia,asbgd,Bangladesh,14659697
+2020,as,Asia,asbhr,Bahrain,25230582
+2020,as,Asia,asbrn,Brunei,17715775
+2020,as,Asia,asbtn,Bhutan,1236040
+2020,as,Asia,aschn,China,880156756
+2020,as,Asia,ascyp,Cyprus,424012
+2020,as,Asia,asgeo,Georgia,3042446
+2020,as,Asia,ashkg,Hong Kong,3347791
+2020,as,Asia,asidn,Indonesia,198367791
+2020,as,Asia,asind,India,421269
+2020,as,Asia,asirn,Iran,112753
+2020,as,Asia,asirq,Iraq,93949953
+2020,as,Asia,asisr,Israel,69484447
+2020,as,Asia,asjor,Jordan,20431738
+2020,as,Asia,asjpn,Japan,998527477
+2020,as,Asia,askaz,Kazakhstan,5835114
+2020,as,Asia,askhm,Cambodia,93723939
+2020,as,Asia,askor,South Korea,296491
+2020,as,Asia,askwt,Kuwait,76281896
+2020,as,Asia,aslao,Laos,95270872
+2020,as,Asia,aslbn,Lebanon,7502998
+2020,as,Asia,aslka,Sri Lanka,12183125
+2020,as,Asia,asmac,Macau,463890
+2020,as,Asia,asmdv,Maldives,87311
+2020,as,Asia,asmmr,Burma,85621254
+2020,as,Asia,asmng,Mongolia,391814
+2020,as,Asia,asmys,Malaysia,64824856
+2020,as,Asia,asnpl,Nepal,2356775
+2020,as,Asia,asomn,Oman,128708777
+2020,as,Asia,aspak,Pakistan,65753715
+2020,as,Asia,asphl,Philippines,561870803
+2020,as,Asia,aspse,Palestine,1868276
+2020,as,Asia,asqat,Qatar,50110917
+2020,as,Asia,assau,Saudi Arabia,509279680
+2020,as,Asia,assgp,Singapore,60827739
+2020,as,Asia,assyr,Syria,53440
+2020,as,Asia,astjk,Tajikistan,166655
+2020,as,Asia,astkm,Turkmenistan,385502
+2020,as,Asia,astls,Timor-Leste,707383
+2020,as,Asia,astur,Turkey,45769694
+2020,as,Asia,asuzb,Uzbekistan,74059401
+2020,as,Asia,asvnm,Vietnam,688110925
+2020,as,Asia,asxxb,Chinese Taipei,55640967
+2020,as,Asia,asyem,Yemen,36862654
+2020,eu,Europe,euaut,Austria,37017163
+2020,eu,Europe,eubel,Belgium,4747154
+2020,eu,Europe,eubgr,Bulgaria,369474
+2020,eu,Europe,eubih,Bosnia and Herzegovina,10443
+2020,eu,Europe,eublr,Belarus,77000
+2020,eu,Europe,euche,Switzerland,18369993
+2020,eu,Europe,eucze,Czechia,1587448
+2020,eu,Europe,eudeu,Germany,127013403
+2020,eu,Europe,euesp,Spain,2077053
+2020,eu,Europe,euest,Estonia,177620
+2020,eu,Europe,eufin,Finland,1217984
+2020,eu,Europe,eufra,France,55205307
+2020,eu,Europe,eugbr,United Kingdom,2479670
+2020,eu,Europe,eugrc,Greece,1403678
+2020,eu,Europe,euhrv,Croatia,1071847
+2020,eu,Europe,euhun,Hungary,790332
+2020,eu,Europe,euirl,Ireland,1289767
+2020,eu,Europe,euisl,Iceland,188608
+2020,eu,Europe,euita,Italy,20985064
+2020,eu,Europe,eultu,Lithuania,171988
+2020,eu,Europe,eulux,Luxembourg,118139
+2020,eu,Europe,eulva,Latvia,107267
+2020,eu,Europe,eumda,Moldova,445272
+2020,eu,Europe,eumkd,North Macedonia,533751
+2020,eu,Europe,eumlt,Malta,432986
+2020,eu,Europe,eunld,Netherlands,10419270
+2020,eu,Europe,eunor,Norway,1105607
+2020,eu,Europe,eupol,Poland,3004992
+2020,eu,Europe,euprt,Portugal,11150295
+2020,eu,Europe,eurou,Romania,320061
+2020,eu,Europe,eurus,Russia,126372490
+2020,eu,Europe,eusrb,Serbia,11576
+2020,eu,Europe,eusvk,Slovakia,925868
+2020,eu,Europe,eusvn,Slovenia,428417
+2020,eu,Europe,euswe,Sweden,3279940
+2020,eu,Europe,euukr,Ukraine,12757980
+2020,na,North America,naabw,Aruba,326631
+2020,na,North America,naatg,Antigua and Barbuda,623255
+2020,na,North America,nabhs,Bahamas,225785
+2020,na,North America,nablz,Belize,258756
+2020,na,North America,nabmu,Bermuda,436677
+2020,na,North America,nabrb,Barbados,2147291
+2020,na,North America,nacan,Canada,9059715
+2020,na,North America,nacri,Costa Rica,16537623
+2020,na,North America,nacuw,Curaï¿½ï,777517
+2020,na,North America,nacym,Cayman Islands,1939150
+2020,na,North America,nadma,Dominica,184699
+2020,na,North America,nadom,Dominican Republic,880482
+2020,na,North America,nagrd,Grenada,699538
+2020,na,North America,nagtm,Guatemala,10243164
+2020,na,North America,nahnd,Honduras,3709053
+2020,na,North America,nahti,Haiti,472023
+2020,na,North America,najam,Jamaica,21676147
+2020,na,North America,nakna,Saint Kitts and Nevis,976199
+2020,na,North America,nalca,Saint Lucia,970711
+2020,na,North America,namex,Mexico,314191646
+2020,na,North America,namsr,Montserrat,55605
+2020,na,North America,nanic,Nicaragua,2387249
+2020,na,North America,napan,Panama,9022745
+2020,na,North America,naslv,El Salvador,4265067
+2020,na,North America,natca,Turks and Caicos Islands,122567
+2020,na,North America,natto,Trinidad and Tobago,27107408
+2020,na,North America,nausa,United States,160732913
+2020,na,North America,navct,Saint Vincent and the Grenadines,130328
+2020,oc,Oceania,ocaus,Australia,1368040522
+2020,oc,Oceania,occok,Cook Islands,15977
+2020,oc,Oceania,ocfji,Fiji,2241603
+2020,oc,Oceania,ocgum,Guam,937020
+2020,oc,Oceania,ockir,Kiribati,400595
+2020,oc,Oceania,ocmhl,Marshall Islands,22572
+2020,oc,Oceania,ocmnp,Northern Mariana Islands,804379
+2020,oc,Oceania,ocncl,New Caledonia,11841619
+2020,oc,Oceania,ocnru,Nauru,27319
+2020,oc,Oceania,ocnzl,New Zealand,211724840
+2020,oc,Oceania,ocpng,Papua New Guinea,6049840
+2020,oc,Oceania,ocpyf,French Polynesia,12439677
+2020,oc,Oceania,ocslb,Solomon Islands,722398
+2020,oc,Oceania,octon,Tonga,300194
+2020,oc,Oceania,ocvut,Vanuatu,725487
+2020,oc,Oceania,ocwsm,Samoa,690004
+2020,sa,South America,sabol,Bolivia,2307156
+2020,sa,South America,sabra,Brazil,24109190
+2020,sa,South America,sachl,Chile,27788130
+2020,sa,South America,sacol,Colombia,4776634
+2020,sa,South America,saecu,Ecuador,18642627
+2020,sa,South America,saguy,Guyana,2766920
+2020,sa,South America,saper,Peru,35184291
+2020,sa,South America,sapry,Paraguay,2084680
+2020,sa,South America,sasur,Suriname,3388535
+2020,sa,South America,saven,Venezuela,1893105
+2019,af,Africa,afago,Angola,1199675
+2019,af,Africa,afbdi,Burundi,309796
+2019,af,Africa,afben,Benin,228395
+2019,af,Africa,afbfa,Burkina Faso,2947424
+2019,af,Africa,afbwa,Botswana,17096
+2019,af,Africa,afcaf,Central African Republic,528772
+2019,af,Africa,afciv,Cote d'Ivoire,2008578
+2019,af,Africa,afcmr,Cameroon,2421154
+2019,af,Africa,afcod,Democratic Republic of the Congo,3538740
+2019,af,Africa,afcog,Republic of the Congo,122787
+2019,af,Africa,afcom,Comoros,32887
+2019,af,Africa,afcpv,Cape Verde,79407
+2019,af,Africa,afdji,Djibouti,768487
+2019,af,Africa,afdza,Algeria,34374
+2019,af,Africa,afegy,Egypt,20993096
+2019,af,Africa,afeth,Ethiopia,8255478
+2019,af,Africa,afgab,Gabon,206911
+2019,af,Africa,afgha,Ghana,1914246
+2019,af,Africa,afgin,Guinea,115033
+2019,af,Africa,afgmb,Gambia,6115
+2019,af,Africa,afken,Kenya,4174058
+2019,af,Africa,aflby,Libya,9300936
+2019,af,Africa,afmar,Morocco,15079319
+2019,af,Africa,afmdg,Madagascar,576917
+2019,af,Africa,afmli,Mali,71402
+2019,af,Africa,afmoz,Mozambique,891111
+2019,af,Africa,afmrt,Mauritania,310170
+2019,af,Africa,afmus,Mauritius,6632847
+2019,af,Africa,afmwi,Malawi,544429
+2019,af,Africa,afnam,Namibia,481441
+2019,af,Africa,afner,Niger,2262493
+2019,af,Africa,afnga,Nigeria,4414456
+2019,af,Africa,afrwa,Rwanda,942075
+2019,af,Africa,afsdn,Sudan,3195065
+2019,af,Africa,afsen,Senegal,3071425
+2019,af,Africa,afsom,Somalia,257317
+2019,af,Africa,afssd,South Sudan,4003966
+2019,af,Africa,afstp,Sao Tome and Principe,220484
+2019,af,Africa,afswz,Eswatini,59500
+2019,af,Africa,afsyc,Seychelles,246115
+2019,af,Africa,aftcd,Chad,362460
+2019,af,Africa,aftgo,Togo,692193
+2019,af,Africa,aftun,Tunisia,7155545
+2019,af,Africa,aftza,Tanzania,2242353
+2019,af,Africa,afuga,Uganda,2865920
+2019,af,Africa,afzaf,South Africa,112789476
+2019,af,Africa,afzmb,Zambia,585865
+2019,af,Africa,afzwe,Zimbabwe,302941
+2019,as,Asia,asafg,Afghanistan,2797548
+2019,as,Asia,asare,United Arab Emirates,301219984
+2019,as,Asia,asarm,Armenia,374508
+2019,as,Asia,asaze,Azerbaijan,5774490
+2019,as,Asia,asbgd,Bangladesh,13323662
+2019,as,Asia,asbhr,Bahrain,20521101
+2019,as,Asia,asbrn,Brunei,27756518
+2019,as,Asia,asbtn,Bhutan,1073141
+2019,as,Asia,aschn,China,596838603
+2019,as,Asia,ascyp,Cyprus,460533
+2019,as,Asia,asgeo,Georgia,1467384
+2019,as,Asia,ashkg,Hong Kong,4496732
+2019,as,Asia,asidn,Indonesia,323102432
+2019,as,Asia,asind,India,1468031
+2019,as,Asia,asirn,Iran,179012
+2019,as,Asia,asirq,Iraq,80774154
+2019,as,Asia,asisr,Israel,67760682
+2019,as,Asia,asjor,Jordan,38328141
+2019,as,Asia,asjpn,Japan,306411550
+2019,as,Asia,askaz,Kazakhstan,22795707
+2019,as,Asia,askhm,Cambodia,164984681
+2019,as,Asia,askor,South Korea,632709
+2019,as,Asia,askwt,Kuwait,80526851
+2019,as,Asia,aslao,Laos,144843187
+2019,as,Asia,aslbn,Lebanon,17525731
+2019,as,Asia,aslka,Sri Lanka,16181647
+2019,as,Asia,asmac,Macau,570144
+2019,as,Asia,asmdv,Maldives,266181
+2019,as,Asia,asmmr,Burma,51143022
+2019,as,Asia,asmng,Mongolia,563695
+2019,as,Asia,asmys,Malaysia,137672226
+2019,as,Asia,asnpl,Nepal,4465787
+2019,as,Asia,asomn,Oman,153434682
+2019,as,Asia,aspak,Pakistan,105410244
+2019,as,Asia,asphl,Philippines,872117832
+2019,as,Asia,aspse,Palestine,1118127
+2019,as,Asia,asqat,Qatar,50381923
+2019,as,Asia,assau,Saudi Arabia,368832820
+2019,as,Asia,assgp,Singapore,108341424
+2019,as,Asia,assyr,Syria,25843
+2019,as,Asia,astjk,Tajikistan,484975
+2019,as,Asia,astkm,Turkmenistan,276828
+2019,as,Asia,astls,Timor-Leste,957710
+2019,as,Asia,astur,Turkey,12105318
+2019,as,Asia,asuzb,Uzbekistan,7449715
+2019,as,Asia,asvnm,Vietnam,989697158
+2019,as,Asia,asxxb,Chinese Taipei,19415236
+2019,as,Asia,asyem,Yemen,34798545
+2019,eu,Europe,euaut,Austria,47626290
+2019,eu,Europe,eubel,Belgium,105639420
+2019,eu,Europe,eubgr,Bulgaria,15781
+2019,eu,Europe,eubih,Bosnia and Herzegovina,8447
+2019,eu,Europe,euche,Switzerland,14521291
+2019,eu,Europe,eucze,Czechia,2922973
+2019,eu,Europe,eudeu,Germany,146458157
+2019,eu,Europe,eudnk,Denmark,12227101
+2019,eu,Europe,euesp,Spain,7409963
+2019,eu,Europe,euest,Estonia,625256
+2019,eu,Europe,eufin,Finland,1235659
+2019,eu,Europe,eufra,France,76412684
+2019,eu,Europe,eugbr,United Kingdom,63437928
+2019,eu,Europe,eugrc,Greece,5920020
+2019,eu,Europe,euhrv,Croatia,1361043
+2019,eu,Europe,euirl,Ireland,506774
+2019,eu,Europe,euisl,Iceland,17290
+2019,eu,Europe,euita,Italy,60308360
+2019,eu,Europe,eulux,Luxembourg,99020
+2019,eu,Europe,eumda,Moldova,107504
+2019,eu,Europe,eumkd,North Macedonia,104587
+2019,eu,Europe,eumlt,Malta,1824396
+2019,eu,Europe,eumne,Montenegro,69089
+2019,eu,Europe,eunld,Netherlands,26065463
+2019,eu,Europe,eunor,Norway,20269942
+2019,eu,Europe,eupol,Poland,5855119
+2019,eu,Europe,euprt,Portugal,10184737
+2019,eu,Europe,eurou,Romania,164265
+2019,eu,Europe,eurus,Russia,172680436
+2019,eu,Europe,eusrb,Serbia,6702
+2019,eu,Europe,eusvk,Slovakia,597051
+2019,eu,Europe,eusvn,Slovenia,28129
+2019,eu,Europe,euswe,Sweden,1830129
+2019,eu,Europe,euukr,Ukraine,17776475
+2019,na,North America,naabw,Aruba,540674
+2019,na,North America,naatg,Antigua and Barbuda,1552626
+2019,na,North America,nabhs,Bahamas,543044
+2019,na,North America,nablz,Belize,262285
+2019,na,North America,nabmu,Bermuda,481269
+2019,na,North America,nabrb,Barbados,2578069
+2019,na,North America,nacan,Canada,15720512
+2019,na,North America,nacri,Costa Rica,14555804
+2019,na,North America,nacuw,Curaï¿½ï,1774873
+2019,na,North America,nacym,Cayman Islands,2936459
+2019,na,North America,nadma,Dominica,244790
+2019,na,North America,nadom,Dominican Republic,3848311
+2019,na,North America,nagrd,Grenada,984007
+2019,na,North America,nagtm,Guatemala,13706109
+2019,na,North America,nahnd,Honduras,4128354
+2019,na,North America,nahti,Haiti,529732
+2019,na,North America,najam,Jamaica,26448247
+2019,na,North America,nakna,Saint Kitts and Nevis,2205980
+2019,na,North America,nalca,Saint Lucia,2091274
+2019,na,North America,namex,Mexico,451429575
+2019,na,North America,namsr,Montserrat,70636
+2019,na,North America,nanic,Nicaragua,428603
+2019,na,North America,napan,Panama,25485026
+2019,na,North America,naslv,El Salvador,5231435
+2019,na,North America,natca,Turks and Caicos Islands,1568891
+2019,na,North America,natto,Trinidad and Tobago,44796137
+2019,na,North America,nausa,United States,229025058
+2019,na,North America,navct,Saint Vincent and the Grenadines,173618
+2019,na,North America,navgb,British Virgin Islands,59641
+2019,oc,Oceania,ocaus,Australia,2228915029
+2019,oc,Oceania,occok,Cook Islands,82508
+2019,oc,Oceania,ocfji,Fiji,7265350
+2019,oc,Oceania,ocgum,Guam,1441196
+2019,oc,Oceania,ockir,Kiribati,208171
+2019,oc,Oceania,ocmhl,Marshall Islands,21362
+2019,oc,Oceania,ocmnp,Northern Mariana Islands,731899
+2019,oc,Oceania,ocncl,New Caledonia,6062031
+2019,oc,Oceania,ocnzl,New Zealand,258401891
+2019,oc,Oceania,ocpng,Papua New Guinea,6660135
+2019,oc,Oceania,ocpyf,French Polynesia,15593747
+2019,oc,Oceania,ocslb,Solomon Islands,1002596
+2019,oc,Oceania,octon,Tonga,257821
+2019,oc,Oceania,ocvut,Vanuatu,2537738
+2019,oc,Oceania,ocwsm,Samoa,1211153
+2019,sa,South America,sabol,Bolivia,4421729
+2019,sa,South America,sabra,Brazil,45322515
+2019,sa,South America,sachl,Chile,60755924
+2019,sa,South America,sacol,Colombia,6599513
+2019,sa,South America,saecu,Ecuador,24775693
+2019,sa,South America,saguy,Guyana,2659653
+2019,sa,South America,saper,Peru,56363204
+2019,sa,South America,sapry,Paraguay,2040041
+2019,sa,South America,sasur,Suriname,5235463
+2019,sa,South America,saven,Venezuela,2006126
+2018,af,Africa,afago,Angola,4833335
+2018,af,Africa,afbdi,Burundi,833027
+2018,af,Africa,afben,Benin,43860
+2018,af,Africa,afbfa,Burkina Faso,2113283
+2018,af,Africa,afbwa,Botswana,101550
+2018,af,Africa,afcaf,Central African Republic,365007
+2018,af,Africa,afciv,Cote d'Ivoire,4961684
+2018,af,Africa,afcmr,Cameroon,3117182
+2018,af,Africa,afcod,Democratic Republic of the Congo,1859697
+2018,af,Africa,afcog,Republic of the Congo,68433
+2018,af,Africa,afcom,Comoros,166944
+2018,af,Africa,afcpv,Cape Verde,52394
+2018,af,Africa,afdji,Djibouti,32037
+2018,af,Africa,afdza,Algeria,655684
+2018,af,Africa,afegy,Egypt,33395233
+2018,af,Africa,aferi,Eritrea,125808
+2018,af,Africa,afeth,Ethiopia,10593700
+2018,af,Africa,afgab,Gabon,31261
+2018,af,Africa,afgha,Ghana,1767090
+2018,af,Africa,afgmb,Gambia,1080967
+2018,af,Africa,afgnb,Guinea-Bissau,28410
+2018,af,Africa,afken,Kenya,8120669
+2018,af,Africa,aflbr,Liberia,549149
+2018,af,Africa,aflby,Libya,1654281
+2018,af,Africa,aflso,Lesotho,124750
+2018,af,Africa,afmar,Morocco,7186562
+2018,af,Africa,afmdg,Madagascar,493352
+2018,af,Africa,afmli,Mali,29008
+2018,af,Africa,afmoz,Mozambique,719568
+2018,af,Africa,afmrt,Mauritania,430383
+2018,af,Africa,afmus,Mauritius,9910411
+2018,af,Africa,afmwi,Malawi,1780611
+2018,af,Africa,afnam,Namibia,164869
+2018,af,Africa,afner,Niger,537927
+2018,af,Africa,afnga,Nigeria,8554754
+2018,af,Africa,afrwa,Rwanda,422246
+2018,af,Africa,afsdn,Sudan,4994345
+2018,af,Africa,afsen,Senegal,5881427
+2018,af,Africa,afsle,Sierra Leone,20226
+2018,af,Africa,afsom,Somalia,300931
+2018,af,Africa,afssd,South Sudan,854585
+2018,af,Africa,afstp,Sao Tome and Principe,143955
+2018,af,Africa,afswz,Eswatini,245968
+2018,af,Africa,afsyc,Seychelles,378559
+2018,af,Africa,aftcd,Chad,33382
+2018,af,Africa,aftgo,Togo,295063
+2018,af,Africa,aftun,Tunisia,9329713
+2018,af,Africa,aftza,Tanzania,1056364
+2018,af,Africa,afuga,Uganda,3032237
+2018,af,Africa,afzaf,South Africa,221673517
+2018,af,Africa,afzmb,Zambia,708412
+2018,af,Africa,afzwe,Zimbabwe,144738
+2018,as,Asia,asafg,Afghanistan,16296862
+2018,as,Asia,asare,United Arab Emirates,392878356
+2018,as,Asia,asarm,Armenia,1526493
+2018,as,Asia,asaze,Azerbaijan,4406395
+2018,as,Asia,asbgd,Bangladesh,15279461
+2018,as,Asia,asbhr,Bahrain,22858505
+2018,as,Asia,asbrn,Brunei,23014646
+2018,as,Asia,asbtn,Bhutan,1851601
+2018,as,Asia,aschn,China,238892180
+2018,as,Asia,ascyp,Cyprus,627788
+2018,as,Asia,asgeo,Georgia,8544500
+2018,as,Asia,ashkg,Hong Kong,7705329
+2018,as,Asia,asidn,Indonesia,288450573
+2018,as,Asia,asind,India,2100554
+2018,as,Asia,asirn,Iran,46801
+2018,as,Asia,asirq,Iraq,53582040
+2018,as,Asia,asisr,Israel,95023349
+2018,as,Asia,asjor,Jordan,25811971
+2018,as,Asia,asjpn,Japan,339795791
+2018,as,Asia,askaz,Kazakhstan,17394173
+2018,as,Asia,askhm,Cambodia,107609305
+2018,as,Asia,askor,South Korea,1068996
+2018,as,Asia,askwt,Kuwait,96041973
+2018,as,Asia,aslao,Laos,195899827
+2018,as,Asia,aslbn,Lebanon,32141038
+2018,as,Asia,aslka,Sri Lanka,20497448
+2018,as,Asia,asmac,Macau,462252
+2018,as,Asia,asmdv,Maldives,233158
+2018,as,Asia,asmmr,Burma,58710674
+2018,as,Asia,asmng,Mongolia,368127
+2018,as,Asia,asmys,Malaysia,147673288
+2018,as,Asia,asnpl,Nepal,5780945
+2018,as,Asia,asomn,Oman,199180663
+2018,as,Asia,aspak,Pakistan,152686605
+2018,as,Asia,asphl,Philippines,1630611674
+2018,as,Asia,aspse,Palestine,2366449
+2018,as,Asia,asqat,Qatar,46598066
+2018,as,Asia,assau,Saudi Arabia,386355182
+2018,as,Asia,assgp,Singapore,137764407
+2018,as,Asia,assyr,Syria,91738
+2018,as,Asia,astjk,Tajikistan,439680
+2018,as,Asia,astkm,Turkmenistan,34564
+2018,as,Asia,astls,Timor-Leste,2707726
+2018,as,Asia,astur,Turkey,47513839
+2018,as,Asia,asuzb,Uzbekistan,47200
+2018,as,Asia,asvnm,Vietnam,680168945
+2018,as,Asia,asxxb,Chinese Taipei,7603879
+2018,as,Asia,asyem,Yemen,21665696
+2018,eu,Europe,euaut,Austria,40910159
+2018,eu,Europe,eubel,Belgium,44226202
+2018,eu,Europe,euche,Switzerland,14673845
+2018,eu,Europe,eucze,Czechia,1874156
+2018,eu,Europe,eudeu,Germany,183747009
+2018,eu,Europe,eudnk,Denmark,11179778
+2018,eu,Europe,euesp,Spain,4022090
+2018,eu,Europe,euest,Estonia,390350
+2018,eu,Europe,eufin,Finland,1082844
+2018,eu,Europe,eufra,France,51935863
+2018,eu,Europe,eugbr,United Kingdom,188599407
+2018,eu,Europe,eugrc,Greece,11133476
+2018,eu,Europe,euhrv,Croatia,838146
+2018,eu,Europe,euhun,Hungary,4216457
+2018,eu,Europe,euirl,Ireland,3617759
+2018,eu,Europe,euisl,Iceland,149314
+2018,eu,Europe,euita,Italy,60663498
+2018,eu,Europe,eulux,Luxembourg,286805
+2018,eu,Europe,eumda,Moldova,564936
+2018,eu,Europe,eumkd,North Macedonia,104927
+2018,eu,Europe,eumlt,Malta,2529140
+2018,eu,Europe,eunld,Netherlands,35979795
+2018,eu,Europe,eunor,Norway,21360737
+2018,eu,Europe,eupol,Poland,8961425
+2018,eu,Europe,euprt,Portugal,11519618
+2018,eu,Europe,eurou,Romania,1124
+2018,eu,Europe,eurus,Russia,254377085
+2018,eu,Europe,eusrb,Serbia,66216
+2018,eu,Europe,eusvk,Slovakia,700778
+2018,eu,Europe,eusvn,Slovenia,35875
+2018,eu,Europe,euswe,Sweden,1688705
+2018,eu,Europe,euukr,Ukraine,12671838
+2018,na,North America,naabw,Aruba,1853415
+2018,na,North America,naaia,Anguilla,9372
+2018,na,North America,naatg,Antigua and Barbuda,1246762
+2018,na,North America,nabhs,Bahamas,347766
+2018,na,North America,nablz,Belize,391292
+2018,na,North America,nabmu,Bermuda,1020709
+2018,na,North America,nabrb,Barbados,3451647
+2018,na,North America,nacan,Canada,18008011
+2018,na,North America,nacri,Costa Rica,35356045
+2018,na,North America,nacuw,Curaï¿½ï,1560294
+2018,na,North America,nacym,Cayman Islands,1825529
+2018,na,North America,nadma,Dominica,247198
+2018,na,North America,nadom,Dominican Republic,4270584
+2018,na,North America,nagrd,Grenada,1250005
+2018,na,North America,nagrl,Greenland,117352
+2018,na,North America,nagtm,Guatemala,22167193
+2018,na,North America,nahnd,Honduras,6310114
+2018,na,North America,nahti,Haiti,2005245
+2018,na,North America,najam,Jamaica,44039141
+2018,na,North America,nakna,Saint Kitts and Nevis,1091750
+2018,na,North America,nalca,Saint Lucia,2421621
+2018,na,North America,namaf,Saint Martin,255172
+2018,na,North America,namex,Mexico,643526109
+2018,na,North America,namsr,Montserrat,35674
+2018,na,North America,nanic,Nicaragua,6179511
+2018,na,North America,napan,Panama,40148008
+2018,na,North America,naslv,El Salvador,2966729
+2018,na,North America,natca,Turks and Caicos Islands,660019
+2018,na,North America,natto,Trinidad and Tobago,45092202
+2018,na,North America,nausa,United States,261596040
+2018,na,North America,navct,Saint Vincent and the Grenadines,191600
+2018,na,North America,navgb,British Virgin Islands,122908
+2018,oc,Oceania,ocaus,Australia,2714504509
+2018,oc,Oceania,occok,Cook Islands,204348
+2018,oc,Oceania,ocfji,Fiji,8944130
+2018,oc,Oceania,ocgum,Guam,2462798
+2018,oc,Oceania,ockir,Kiribati,38504
+2018,oc,Oceania,ocmhl,Marshall Islands,23876
+2018,oc,Oceania,ocmnp,Northern Mariana Islands,409778
+2018,oc,Oceania,ocncl,New Caledonia,11587127
+2018,oc,Oceania,ocnzl,New Zealand,300905496
+2018,oc,Oceania,ocplw,Palau,64477
+2018,oc,Oceania,ocpng,Papua New Guinea,7118036
+2018,oc,Oceania,ocpyf,French Polynesia,14234735
+2018,oc,Oceania,ocslb,Solomon Islands,2109842
+2018,oc,Oceania,octon,Tonga,400609
+2018,oc,Oceania,ocvut,Vanuatu,2272585
+2018,oc,Oceania,ocwlf,Wallis and Futuna,21830
+2018,oc,Oceania,ocwsm,Samoa,1472482
+2018,sa,South America,sabol,Bolivia,6619290
+2018,sa,South America,sabra,Brazil,233235
+2018,sa,South America,sachl,Chile,212066014
+2018,sa,South America,sacol,Colombia,12224279
+2018,sa,South America,saecu,Ecuador,47785252
+2018,sa,South America,saguy,Guyana,1926430
+2018,sa,South America,saper,Peru,76201128
+2018,sa,South America,sapry,Paraguay,3635210
+2018,sa,South America,sasur,Suriname,5831445
+2018,sa,South America,saven,Venezuela,536003
+2017,af,Africa,afago,Angola,3730619
+2017,af,Africa,afbdi,Burundi,471936
+2017,af,Africa,afben,Benin,33717
+2017,af,Africa,afbfa,Burkina Faso,1127274
+2017,af,Africa,afbwa,Botswana,32152
+2017,af,Africa,afcaf,Central African Republic,585068
+2017,af,Africa,afciv,Cote d'Ivoire,4327728
+2017,af,Africa,afcmr,Cameroon,1386108
+2017,af,Africa,afcod,Democratic Republic of the Congo,1410893
+2017,af,Africa,afcog,Republic of the Congo,91501
+2017,af,Africa,afcom,Comoros,180951
+2017,af,Africa,afcpv,Cape Verde,229735
+2017,af,Africa,afdji,Djibouti,298177
+2017,af,Africa,afdza,Algeria,522906
+2017,af,Africa,afegy,Egypt,13299168
+2017,af,Africa,aferi,Eritrea,75187
+2017,af,Africa,afeth,Ethiopia,3491418
+2017,af,Africa,afgab,Gabon,1082659
+2017,af,Africa,afgha,Ghana,1849982
+2017,af,Africa,afgmb,Gambia,558011
+2017,af,Africa,afken,Kenya,6210364
+2017,af,Africa,aflbr,Liberia,205379
+2017,af,Africa,aflby,Libya,69846
+2017,af,Africa,aflso,Lesotho,178886
+2017,af,Africa,afmar,Morocco,3405457
+2017,af,Africa,afmdg,Madagascar,386026
+2017,af,Africa,afmli,Mali,199056
+2017,af,Africa,afmoz,Mozambique,606905
+2017,af,Africa,afmrt,Mauritania,343277
+2017,af,Africa,afmus,Mauritius,10247095
+2017,af,Africa,afmwi,Malawi,405884
+2017,af,Africa,afnam,Namibia,262535
+2017,af,Africa,afner,Niger,133646
+2017,af,Africa,afnga,Nigeria,745319
+2017,af,Africa,afrwa,Rwanda,858564
+2017,af,Africa,afsdn,Sudan,11902474
+2017,af,Africa,afsen,Senegal,3859385
+2017,af,Africa,afsom,Somalia,121821
+2017,af,Africa,afssd,South Sudan,1626368
+2017,af,Africa,afstp,Sao Tome and Principe,326904
+2017,af,Africa,afswz,Eswatini,14380
+2017,af,Africa,afsyc,Seychelles,133765
+2017,af,Africa,aftcd,Chad,967667
+2017,af,Africa,aftgo,Togo,318770
+2017,af,Africa,aftun,Tunisia,10448473
+2017,af,Africa,aftza,Tanzania,894409
+2017,af,Africa,afuga,Uganda,5975752
+2017,af,Africa,afzaf,South Africa,104560093
+2017,af,Africa,afzmb,Zambia,554089
+2017,af,Africa,afzwe,Zimbabwe,127060
+2017,as,Asia,asafg,Afghanistan,1104231
+2017,as,Asia,asare,United Arab Emirates,295276536
+2017,as,Asia,asarm,Armenia,1098138
+2017,as,Asia,asaze,Azerbaijan,2953109
+2017,as,Asia,asbgd,Bangladesh,12433579
+2017,as,Asia,asbhr,Bahrain,20355165
+2017,as,Asia,asbrn,Brunei,18098561
+2017,as,Asia,asbtn,Bhutan,2492558
+2017,as,Asia,ascck,Cocos (Keeling) Islands,80065
+2017,as,Asia,aschn,China,502543066
+2017,as,Asia,ascyp,Cyprus,838178
+2017,as,Asia,asgeo,Georgia,5063049
+2017,as,Asia,ashkg,Hong Kong,3265540
+2017,as,Asia,asidn,Indonesia,379244589
+2017,as,Asia,asind,India,6562877
+2017,as,Asia,asirn,Iran,7417466
+2017,as,Asia,asirq,Iraq,54608928
+2017,as,Asia,asisr,Israel,95471555
+2017,as,Asia,asjor,Jordan,14416779
+2017,as,Asia,asjpn,Japan,215029911
+2017,as,Asia,askaz,Kazakhstan,15485283
+2017,as,Asia,askgz,Kyrgyzstan,352537
+2017,as,Asia,askhm,Cambodia,109742889
+2017,as,Asia,askor,South Korea,397730
+2017,as,Asia,askwt,Kuwait,95280774
+2017,as,Asia,aslao,Laos,230879587
+2017,as,Asia,aslbn,Lebanon,28916990
+2017,as,Asia,aslka,Sri Lanka,9057999
+2017,as,Asia,asmac,Macau,76519
+2017,as,Asia,asmdv,Maldives,197336
+2017,as,Asia,asmmr,Burma,56983149
+2017,as,Asia,asmng,Mongolia,46694
+2017,as,Asia,asmys,Malaysia,89128331
+2017,as,Asia,asnpl,Nepal,4113362
+2017,as,Asia,asomn,Oman,247320141
+2017,as,Asia,aspak,Pakistan,156020996
+2017,as,Asia,asphl,Philippines,1803468897
+2017,as,Asia,aspse,Palestine,2755133
+2017,as,Asia,asqat,Qatar,62790803
+2017,as,Asia,assau,Saudi Arabia,523482255
+2017,as,Asia,assgp,Singapore,84289167
+2017,as,Asia,assyr,Syria,51312
+2017,as,Asia,astjk,Tajikistan,371143
+2017,as,Asia,astls,Timor-Leste,3189864
+2017,as,Asia,astur,Turkey,105858969
+2017,as,Asia,asvnm,Vietnam,133059584
+2017,as,Asia,asxxb,Chinese Taipei,9441462
+2017,as,Asia,asyem,Yemen,6803249
+2017,eu,Europe,euaut,Austria,41685442
+2017,eu,Europe,eubel,Belgium,67526872
+2017,eu,Europe,eubgr,Bulgaria,17567
+2017,eu,Europe,euche,Switzerland,9639018
+2017,eu,Europe,eucze,Czechia,1146120
+2017,eu,Europe,eudeu,Germany,157762227
+2017,eu,Europe,eudnk,Denmark,21536346
+2017,eu,Europe,euesp,Spain,6233538
+2017,eu,Europe,euest,Estonia,605466
+2017,eu,Europe,eufin,Finland,1437306
+2017,eu,Europe,eufra,France,36675236
+2017,eu,Europe,eugbr,United Kingdom,200885226
+2017,eu,Europe,eugrc,Greece,11676717
+2017,eu,Europe,euhun,Hungary,4406693
+2017,eu,Europe,euirl,Ireland,5503979
+2017,eu,Europe,euita,Italy,48180888
+2017,eu,Europe,eulux,Luxembourg,243184
+2017,eu,Europe,eumda,Moldova,550340
+2017,eu,Europe,eumkd,North Macedonia,46157
+2017,eu,Europe,eumlt,Malta,4595763
+2017,eu,Europe,eumne,Montenegro,3060
+2017,eu,Europe,eunld,Netherlands,40712062
+2017,eu,Europe,eunor,Norway,19168640
+2017,eu,Europe,eupol,Poland,9174437
+2017,eu,Europe,euprt,Portugal,9909299
+2017,eu,Europe,eurou,Romania,12768
+2017,eu,Europe,eurus,Russia,274139909
+2017,eu,Europe,eusrb,Serbia,1833
+2017,eu,Europe,eusvk,Slovakia,533921
+2017,eu,Europe,eusvn,Slovenia,477085
+2017,eu,Europe,euswe,Sweden,6161702
+2017,eu,Europe,euukr,Ukraine,26151672
+2017,na,North America,naabw,Aruba,1826191
+2017,na,North America,naaia,Anguilla,19891
+2017,na,North America,naatg,Antigua and Barbuda,1601800
+2017,na,North America,nabhs,Bahamas,532013
+2017,na,North America,nablz,Belize,435408
+2017,na,North America,nabmu,Bermuda,1174101
+2017,na,North America,nabrb,Barbados,5111422
+2017,na,North America,nacan,Canada,17972897
+2017,na,North America,nacri,Costa Rica,43647681
+2017,na,North America,nacuw,Curaï¿½ï,2712623
+2017,na,North America,nacym,Cayman Islands,2584515
+2017,na,North America,nadma,Dominica,636076
+2017,na,North America,nadom,Dominican Republic,5573633
+2017,na,North America,nagrd,Grenada,904750
+2017,na,North America,nagrl,Greenland,6931
+2017,na,North America,nagtm,Guatemala,14942052
+2017,na,North America,nahnd,Honduras,6350083
+2017,na,North America,nahti,Haiti,2140980
+2017,na,North America,najam,Jamaica,33698589
+2017,na,North America,nakna,Saint Kitts and Nevis,1319549
+2017,na,North America,nalca,Saint Lucia,1817615
+2017,na,North America,namaf,Saint Martin,1047098
+2017,na,North America,namex,Mexico,660510111
+2017,na,North America,namsr,Montserrat,89867
+2017,na,North America,nanic,Nicaragua,12001668
+2017,na,North America,napan,Panama,52543981
+2017,na,North America,naslv,El Salvador,4486049
+2017,na,North America,natca,Turks and Caicos Islands,405692
+2017,na,North America,natto,Trinidad and Tobago,31935023
+2017,na,North America,nausa,United States,185588891
+2017,na,North America,navct,Saint Vincent and the Grenadines,133962
+2017,na,North America,navgb,British Virgin Islands,216405
+2017,oc,Oceania,ocaus,Australia,2526836490
+2017,oc,Oceania,occok,Cook Islands,66834
+2017,oc,Oceania,ocfji,Fiji,7270785
+2017,oc,Oceania,ocgum,Guam,190130
+2017,oc,Oceania,ockir,Kiribati,100647
+2017,oc,Oceania,ocmhl,Marshall Islands,13499
+2017,oc,Oceania,ocmnp,Northern Mariana Islands,27579
+2017,oc,Oceania,ocncl,New Caledonia,7606195
+2017,oc,Oceania,ocnzl,New Zealand,345037879
+2017,oc,Oceania,ocpng,Papua New Guinea,7261582
+2017,oc,Oceania,ocpyf,French Polynesia,11429787
+2017,oc,Oceania,ocslb,Solomon Islands,1111287
+2017,oc,Oceania,octon,Tonga,368579
+2017,oc,Oceania,ocvut,Vanuatu,2001259
+2017,oc,Oceania,ocwlf,Wallis and Futuna,18981
+2017,oc,Oceania,ocwsm,Samoa,1263441
+2017,sa,South America,saarg,Argentina,23228971
+2017,sa,South America,sabol,Bolivia,7233180
+2017,sa,South America,sabra,Brazil,110012
+2017,sa,South America,sachl,Chile,240097419
+2017,sa,South America,sacol,Colombia,13724742
+2017,sa,South America,saecu,Ecuador,15390892
+2017,sa,South America,saguy,Guyana,1719438
+2017,sa,South America,saper,Peru,109547040
+2017,sa,South America,sapry,Paraguay,3159081
+2017,sa,South America,sasur,Suriname,3160593
+2017,sa,South America,saury,Uruguay,194211
+2016,af,Africa,afago,Angola,1041774
+2016,af,Africa,afbdi,Burundi,326461
+2016,af,Africa,afben,Benin,217835
+2016,af,Africa,afbfa,Burkina Faso,1340573
+2016,af,Africa,afbwa,Botswana,14873
+2016,af,Africa,afcaf,Central African Republic,382206
+2016,af,Africa,afciv,Cote d'Ivoire,2006176
+2016,af,Africa,afcmr,Cameroon,2369290
+2016,af,Africa,afcod,Democratic Republic of the Congo,1108179
+2016,af,Africa,afcog,Republic of the Congo,515517
+2016,af,Africa,afcom,Comoros,25431
+2016,af,Africa,afcpv,Cape Verde,238211
+2016,af,Africa,afdji,Djibouti,171202
+2016,af,Africa,afdza,Algeria,683954
+2016,af,Africa,afegy,Egypt,7030263
+2016,af,Africa,afeth,Ethiopia,3725643
+2016,af,Africa,afgab,Gabon,492696
+2016,af,Africa,afgha,Ghana,2156342
+2016,af,Africa,afgin,Guinea,1033115
+2016,af,Africa,afgmb,Gambia,965617
+2016,af,Africa,afken,Kenya,10335334
+2016,af,Africa,aflbr,Liberia,45776
+2016,af,Africa,afmar,Morocco,17474983
+2016,af,Africa,afmdg,Madagascar,2058168
+2016,af,Africa,afmli,Mali,75994
+2016,af,Africa,afmoz,Mozambique,1749307
+2016,af,Africa,afmrt,Mauritania,435418
+2016,af,Africa,afmus,Mauritius,7914800
+2016,af,Africa,afmwi,Malawi,597415
+2016,af,Africa,afnam,Namibia,22300
+2016,af,Africa,afner,Niger,96173
+2016,af,Africa,afnga,Nigeria,260415
+2016,af,Africa,afrwa,Rwanda,1181342
+2016,af,Africa,afsdn,Sudan,6154097
+2016,af,Africa,afsen,Senegal,4045270
+2016,af,Africa,afshn,Saint Helena,18281
+2016,af,Africa,afsle,Sierra Leone,1324
+2016,af,Africa,afsom,Somalia,24057
+2016,af,Africa,afssd,South Sudan,86723
+2016,af,Africa,afstp,Sao Tome and Principe,288564
+2016,af,Africa,afswz,Eswatini,259439
+2016,af,Africa,afsyc,Seychelles,202807
+2016,af,Africa,aftcd,Chad,50269
+2016,af,Africa,aftgo,Togo,177940
+2016,af,Africa,aftun,Tunisia,20050968
+2016,af,Africa,aftza,Tanzania,3056623
+2016,af,Africa,afuga,Uganda,1708928
+2016,af,Africa,afzaf,South Africa,89269975
+2016,af,Africa,afzmb,Zambia,959400
+2016,af,Africa,afzwe,Zimbabwe,342462
+2016,as,Asia,asare,United Arab Emirates,473075816
+2016,as,Asia,asarm,Armenia,1229563
+2016,as,Asia,asaze,Azerbaijan,3444771
+2016,as,Asia,asbgd,Bangladesh,6385432
+2016,as,Asia,asbhr,Bahrain,63780910
+2016,as,Asia,asbrn,Brunei,18545699
+2016,as,Asia,asbtn,Bhutan,3219155
+2016,as,Asia,aschn,China,384242242
+2016,as,Asia,ascyp,Cyprus,1050044
+2016,as,Asia,asgeo,Georgia,6824218
+2016,as,Asia,ashkg,Hong Kong,3699457
+2016,as,Asia,asidn,Indonesia,642507415
+2016,as,Asia,asind,India,5804826
+2016,as,Asia,asirn,Iran,2617446
+2016,as,Asia,asirq,Iraq,7332122
+2016,as,Asia,asisr,Israel,135685682
+2016,as,Asia,asjor,Jordan,25758730
+2016,as,Asia,asjpn,Japan,281758580
+2016,as,Asia,askaz,Kazakhstan,8539585
+2016,as,Asia,askgz,Kyrgyzstan,1132436
+2016,as,Asia,askhm,Cambodia,84014315
+2016,as,Asia,askor,South Korea,697743
+2016,as,Asia,askwt,Kuwait,123352420
+2016,as,Asia,aslao,Laos,373857173
+2016,as,Asia,aslbn,Lebanon,38186708
+2016,as,Asia,aslka,Sri Lanka,12753338
+2016,as,Asia,asmac,Macau,344699
+2016,as,Asia,asmdv,Maldives,116349
+2016,as,Asia,asmmr,Burma,41172239
+2016,as,Asia,asmng,Mongolia,946724
+2016,as,Asia,asmys,Malaysia,113394956
+2016,as,Asia,asnpl,Nepal,5475732
+2016,as,Asia,asomn,Oman,280035422
+2016,as,Asia,aspak,Pakistan,25376422
+2016,as,Asia,asphl,Philippines,1736741551
+2016,as,Asia,aspse,Palestine,766889
+2016,as,Asia,asqat,Qatar,98646109
+2016,as,Asia,assau,Saudi Arabia,735298163
+2016,as,Asia,assgp,Singapore,196128151
+2016,as,Asia,assyr,Syria,232866
+2016,as,Asia,astjk,Tajikistan,123227
+2016,as,Asia,astkm,Turkmenistan,404976
+2016,as,Asia,astls,Timor-Leste,3214033
+2016,as,Asia,astur,Turkey,145363929
+2016,as,Asia,asuzb,Uzbekistan,51795
+2016,as,Asia,asvnm,Vietnam,140541016
+2016,as,Asia,asxxb,Chinese Taipei,15851371
+2016,as,Asia,asyem,Yemen,9581979
+2016,eu,Europe,euaut,Austria,36920717
+2016,eu,Europe,eubel,Belgium,157287710
+2016,eu,Europe,eubih,Bosnia and Herzegovina,16960
+2016,eu,Europe,euche,Switzerland,11979825
+2016,eu,Europe,eucze,Czechia,1036434
+2016,eu,Europe,eudeu,Germany,160932567
+2016,eu,Europe,eudnk,Denmark,35940560
+2016,eu,Europe,euesp,Spain,4466626
+2016,eu,Europe,euest,Estonia,893976
+2016,eu,Europe,eufin,Finland,13414
+2016,eu,Europe,eufra,France,13923002
+2016,eu,Europe,eugbr,United Kingdom,169932548
+2016,eu,Europe,eugib,Gibraltar,164
+2016,eu,Europe,eugrc,Greece,8978646
+2016,eu,Europe,euhrv,Croatia,551005
+2016,eu,Europe,euhun,Hungary,650758
+2016,eu,Europe,euirl,Ireland,9901808
+2016,eu,Europe,euisl,Iceland,44061
+2016,eu,Europe,euita,Italy,28581999
+2016,eu,Europe,eultu,Lithuania,67878
+2016,eu,Europe,eulux,Luxembourg,290432
+2016,eu,Europe,eumda,Moldova,343122
+2016,eu,Europe,eumkd,North Macedonia,142451
+2016,eu,Europe,eumlt,Malta,2973559
+2016,eu,Europe,eumne,Montenegro,23280
+2016,eu,Europe,eunld,Netherlands,55359875
+2016,eu,Europe,eunor,Norway,22884935
+2016,eu,Europe,eupol,Poland,12552641
+2016,eu,Europe,euprt,Portugal,8187174
+2016,eu,Europe,eurus,Russia,91342489
+2016,eu,Europe,eusrb,Serbia,78571
+2016,eu,Europe,eusvk,Slovakia,645846
+2016,eu,Europe,eusvn,Slovenia,2162735
+2016,eu,Europe,euswe,Sweden,8956342
+2016,eu,Europe,euukr,Ukraine,19256936
+2016,na,North America,naabw,Aruba,2211622
+2016,na,North America,naatg,Antigua and Barbuda,1441250
+2016,na,North America,nabhs,Bahamas,907376
+2016,na,North America,nablz,Belize,976946
+2016,na,North America,nabmu,Bermuda,1282169
+2016,na,North America,nabrb,Barbados,4582642
+2016,na,North America,nacan,Canada,26183313
+2016,na,North America,nacri,Costa Rica,70455699
+2016,na,North America,nacub,Cuba,16952
+2016,na,North America,nacuw,Curaï¿½ï,3964755
+2016,na,North America,nacym,Cayman Islands,1882727
+2016,na,North America,nadma,Dominica,579599
+2016,na,North America,nadom,Dominican Republic,23454384
+2016,na,North America,nagrd,Grenada,1138664
+2016,na,North America,nagrl,Greenland,57075
+2016,na,North America,nagtm,Guatemala,46990143
+2016,na,North America,nahnd,Honduras,22885355
+2016,na,North America,nahti,Haiti,8621960
+2016,na,North America,najam,Jamaica,36725765
+2016,na,North America,nakna,Saint Kitts and Nevis,1614575
+2016,na,North America,nalca,Saint Lucia,1485934
+2016,na,North America,namex,Mexico,535486765
+2016,na,North America,namsr,Montserrat,77902
+2016,na,North America,nanic,Nicaragua,81941732
+2016,na,North America,napan,Panama,105098716
+2016,na,North America,naslv,El Salvador,17077072
+2016,na,North America,natca,Turks and Caicos Islands,22253
+2016,na,North America,natto,Trinidad and Tobago,49604802
+2016,na,North America,nausa,United States,285361967
+2016,na,North America,navct,Saint Vincent and the Grenadines,333978
+2016,na,North America,navgb,British Virgin Islands,123065
+2016,oc,Oceania,ocaus,Australia,2169075789
+2016,oc,Oceania,occok,Cook Islands,51867
+2016,oc,Oceania,ocfji,Fiji,5210162
+2016,oc,Oceania,ockir,Kiribati,161319
+2016,oc,Oceania,ocmhl,Marshall Islands,166340
+2016,oc,Oceania,ocncl,New Caledonia,6452035
+2016,oc,Oceania,ocnzl,New Zealand,370728088
+2016,oc,Oceania,ocpng,Papua New Guinea,4269123
+2016,oc,Oceania,ocpyf,French Polynesia,7098255
+2016,oc,Oceania,ocslb,Solomon Islands,1856366
+2016,oc,Oceania,octon,Tonga,321220
+2016,oc,Oceania,ocvut,Vanuatu,1490776
+2016,oc,Oceania,ocwsm,Samoa,1397462
+2016,sa,South America,saarg,Argentina,10198796
+2016,sa,South America,sabol,Bolivia,27200007
+2016,sa,South America,sabra,Brazil,48679
+2016,sa,South America,sachl,Chile,157627211
+2016,sa,South America,sacol,Colombia,13311998
+2016,sa,South America,saecu,Ecuador,17103396
+2016,sa,South America,saguy,Guyana,2083852
+2016,sa,South America,saper,Peru,199462521
+2016,sa,South America,sapry,Paraguay,3643359
+2016,sa,South America,sasur,Suriname,3393573
+2016,sa,South America,saury,Uruguay,626162
+2016,sa,South America,saven,Venezuela,180417
+2015,af,Africa,afago,Angola,6587396
+2015,af,Africa,afbdi,Burundi,143872
+2015,af,Africa,afben,Benin,383561
+2015,af,Africa,afbfa,Burkina Faso,2731916
+2015,af,Africa,afbwa,Botswana,25618
+2015,af,Africa,afcaf,Central African Republic,396865
+2015,af,Africa,afciv,Cote d'Ivoire,2791789
+2015,af,Africa,afcmr,Cameroon,1231763
+2015,af,Africa,afcod,Democratic Republic of the Congo,634579
+2015,af,Africa,afcog,Republic of the Congo,1551617
+2015,af,Africa,afcom,Comoros,21971
+2015,af,Africa,afcpv,Cape Verde,225390
+2015,af,Africa,afdji,Djibouti,307263
+2015,af,Africa,afdza,Algeria,12702295
+2015,af,Africa,afegy,Egypt,73354712
+2015,af,Africa,afeth,Ethiopia,10782666
+2015,af,Africa,afgab,Gabon,563738
+2015,af,Africa,afgha,Ghana,2111266
+2015,af,Africa,afgin,Guinea,924710
+2015,af,Africa,afgmb,Gambia,126383
+2015,af,Africa,afken,Kenya,8936158
+2015,af,Africa,aflbr,Liberia,478399
+2015,af,Africa,aflby,Libya,200643
+2015,af,Africa,afmar,Morocco,5377140
+2015,af,Africa,afmdg,Madagascar,736419
+2015,af,Africa,afmoz,Mozambique,6091099
+2015,af,Africa,afmrt,Mauritania,208397
+2015,af,Africa,afmus,Mauritius,9987256
+2015,af,Africa,afmwi,Malawi,353952
+2015,af,Africa,afnam,Namibia,1062332
+2015,af,Africa,afner,Niger,602973
+2015,af,Africa,afnga,Nigeria,2781258
+2015,af,Africa,afrwa,Rwanda,935900
+2015,af,Africa,afsdn,Sudan,6372867
+2015,af,Africa,afsen,Senegal,3130708
+2015,af,Africa,afsle,Sierra Leone,34105
+2015,af,Africa,afsom,Somalia,1196787
+2015,af,Africa,afssd,South Sudan,1458671
+2015,af,Africa,afstp,Sao Tome and Principe,43229
+2015,af,Africa,afswz,Eswatini,50428
+2015,af,Africa,afsyc,Seychelles,306958
+2015,af,Africa,aftgo,Togo,200996
+2015,af,Africa,aftun,Tunisia,23631765
+2015,af,Africa,aftza,Tanzania,2386398
+2015,af,Africa,afuga,Uganda,2051459
+2015,af,Africa,afzaf,South Africa,141925576
+2015,af,Africa,afzmb,Zambia,921054
+2015,af,Africa,afzwe,Zimbabwe,347171
+2015,as,Asia,asafg,Afghanistan,742280
+2015,as,Asia,asare,United Arab Emirates,403535978
+2015,as,Asia,asarm,Armenia,652499
+2015,as,Asia,asaze,Azerbaijan,7557633
+2015,as,Asia,asbgd,Bangladesh,5749886
+2015,as,Asia,asbhr,Bahrain,59625238
+2015,as,Asia,asbrn,Brunei,20815820
+2015,as,Asia,asbtn,Bhutan,1799858
+2015,as,Asia,aschn,China,17278292
+2015,as,Asia,ascyp,Cyprus,126331
+2015,as,Asia,asgeo,Georgia,550542
+2015,as,Asia,ashkg,Hong Kong,10068809
+2015,as,Asia,asidn,Indonesia,493590843
+2015,as,Asia,asind,India,4280739
+2015,as,Asia,asirn,Iran,353947
+2015,as,Asia,asirq,Iraq,41209068
+2015,as,Asia,asisr,Israel,120308002
+2015,as,Asia,asjor,Jordan,53184774
+2015,as,Asia,asjpn,Japan,270312736
+2015,as,Asia,askaz,Kazakhstan,4722854
+2015,as,Asia,askgz,Kyrgyzstan,191409
+2015,as,Asia,askhm,Cambodia,105513647
+2015,as,Asia,askor,South Korea,649696
+2015,as,Asia,askwt,Kuwait,114821227
+2015,as,Asia,aslao,Laos,261933716
+2015,as,Asia,aslbn,Lebanon,61052596
+2015,as,Asia,aslka,Sri Lanka,10959652
+2015,as,Asia,asmac,Macau,286582
+2015,as,Asia,asmdv,Maldives,60808
+2015,as,Asia,asmmr,Burma,33261415
+2015,as,Asia,asmng,Mongolia,208978
+2015,as,Asia,asmys,Malaysia,242447708
+2015,as,Asia,asnpl,Nepal,3086204
+2015,as,Asia,asomn,Oman,199694654
+2015,as,Asia,aspak,Pakistan,18411244
+2015,as,Asia,asphl,Philippines,1378171593
+2015,as,Asia,asprk,North Korea,96458
+2015,as,Asia,aspse,Palestine,488955
+2015,as,Asia,asqat,Qatar,87255440
+2015,as,Asia,assau,Saudi Arabia,521307754
+2015,as,Asia,assgp,Singapore,168547725
+2015,as,Asia,assyr,Syria,123830
+2015,as,Asia,astls,Timor-Leste,2133907
+2015,as,Asia,astur,Turkey,44913585
+2015,as,Asia,asvnm,Vietnam,82856995
+2015,as,Asia,asxxb,Chinese Taipei,6408972
+2015,as,Asia,asyem,Yemen,84380558
+2015,eu,Europe,euaut,Austria,39676168
+2015,eu,Europe,eubel,Belgium,187858127
+2015,eu,Europe,eubih,Bosnia and Herzegovina,11263
+2015,eu,Europe,euche,Switzerland,14276842
+2015,eu,Europe,eucze,Czechia,793566
+2015,eu,Europe,eudeu,Germany,146406227
+2015,eu,Europe,eudnk,Denmark,40616891
+2015,eu,Europe,euesp,Spain,9889138
+2015,eu,Europe,euest,Estonia,23414
+2015,eu,Europe,eufin,Finland,1768670
+2015,eu,Europe,eufra,France,13368442
+2015,eu,Europe,eugbr,United Kingdom,146644673
+2015,eu,Europe,eugrc,Greece,8309893
+2015,eu,Europe,euhrv,Croatia,354267
+2015,eu,Europe,euhun,Hungary,2696464
+2015,eu,Europe,euirl,Ireland,3572032
+2015,eu,Europe,euisl,Iceland,26395
+2015,eu,Europe,euita,Italy,37670909
+2015,eu,Europe,eultu,Lithuania,127604
+2015,eu,Europe,eulux,Luxembourg,821961
+2015,eu,Europe,eulva,Latvia,3403
+2015,eu,Europe,eumda,Moldova,245019
+2015,eu,Europe,eumkd,North Macedonia,295703
+2015,eu,Europe,eumlt,Malta,1316348
+2015,eu,Europe,eunld,Netherlands,66963475
+2015,eu,Europe,eunor,Norway,20788553
+2015,eu,Europe,eupol,Poland,7078958
+2015,eu,Europe,euprt,Portugal,7056440
+2015,eu,Europe,eurou,Romania,33605
+2015,eu,Europe,eurus,Russia,76268536
+2015,eu,Europe,eusvk,Slovakia,842950
+2015,eu,Europe,eusvn,Slovenia,3416066
+2015,eu,Europe,euswe,Sweden,7655328
+2015,eu,Europe,euukr,Ukraine,5600663
+2015,na,North America,naabw,Aruba,2050831
+2015,na,North America,naatg,Antigua and Barbuda,1756569
+2015,na,North America,nabhs,Bahamas,546140
+2015,na,North America,nablz,Belize,732238
+2015,na,North America,nabmu,Bermuda,1171970
+2015,na,North America,nabrb,Barbados,4735472
+2015,na,North America,nacan,Canada,21301033
+2015,na,North America,nacri,Costa Rica,55230995
+2015,na,North America,nacuw,Curaï¿½ï,2997134
+2015,na,North America,nacym,Cayman Islands,1242906
+2015,na,North America,nadma,Dominica,542570
+2015,na,North America,nadom,Dominican Republic,26932822
+2015,na,North America,nagrd,Grenada,1036333
+2015,na,North America,nagrl,Greenland,123684
+2015,na,North America,nagtm,Guatemala,43072728
+2015,na,North America,nahnd,Honduras,27078053
+2015,na,North America,nahti,Haiti,5168510
+2015,na,North America,najam,Jamaica,21654412
+2015,na,North America,nakna,Saint Kitts and Nevis,1349864
+2015,na,North America,nalca,Saint Lucia,1238788
+2015,na,North America,namex,Mexico,430380855
+2015,na,North America,nanic,Nicaragua,40952985
+2015,na,North America,napan,Panama,100031217
+2015,na,North America,naslv,El Salvador,10705482
+2015,na,North America,natto,Trinidad and Tobago,59417340
+2015,na,North America,nausa,United States,178147481
+2015,na,North America,navct,Saint Vincent and the Grenadines,230000
+2015,oc,Oceania,ocaus,Australia,1691881695
+2015,oc,Oceania,occok,Cook Islands,210517
+2015,oc,Oceania,ocfji,Fiji,5422042
+2015,oc,Oceania,ockir,Kiribati,206669
+2015,oc,Oceania,ocncl,New Caledonia,23465482
+2015,oc,Oceania,ocnzl,New Zealand,237395021
+2015,oc,Oceania,ocpng,Papua New Guinea,5534074
+2015,oc,Oceania,ocpyf,French Polynesia,8369272
+2015,oc,Oceania,ocslb,Solomon Islands,1877011
+2015,oc,Oceania,octon,Tonga,241846
+2015,oc,Oceania,ocvut,Vanuatu,1338542
+2015,oc,Oceania,ocwsm,Samoa,817526
+2015,sa,South America,saarg,Argentina,33665
+2015,sa,South America,sabol,Bolivia,23456567
+2015,sa,South America,sabra,Brazil,60900
+2015,sa,South America,sachl,Chile,118933583
+2015,sa,South America,sacol,Colombia,17297657
+2015,sa,South America,saecu,Ecuador,4795187
+2015,sa,South America,saguy,Guyana,2168681
+2015,sa,South America,saper,Peru,195603319
+2015,sa,South America,sapry,Paraguay,2934093
+2015,sa,South America,sasur,Suriname,2989372
+2015,sa,South America,saury,Uruguay,2093759
+2014,af,Africa,afago,Angola,13652743
+2014,af,Africa,afbdi,Burundi,423917
+2014,af,Africa,afben,Benin,184714
+2014,af,Africa,afbfa,Burkina Faso,1685535
+2014,af,Africa,afbwa,Botswana,166921
+2014,af,Africa,afcaf,Central African Republic,217660
+2014,af,Africa,afciv,Cote d'Ivoire,3794415
+2014,af,Africa,afcmr,Cameroon,1682311
+2014,af,Africa,afcod,Democratic Republic of the Congo,1073605
+2014,af,Africa,afcog,Republic of the Congo,640268
+2014,af,Africa,afcpv,Cape Verde,233149
+2014,af,Africa,afdji,Djibouti,247720
+2014,af,Africa,afdza,Algeria,52924703
+2014,af,Africa,afegy,Egypt,95177342
+2014,af,Africa,aferi,Eritrea,93085
+2014,af,Africa,afeth,Ethiopia,5519498
+2014,af,Africa,afgab,Gabon,1783046
+2014,af,Africa,afgha,Ghana,2296855
+2014,af,Africa,afgin,Guinea,1328941
+2014,af,Africa,afgmb,Gambia,166437
+2014,af,Africa,afgnb,Guinea-Bissau,39976
+2014,af,Africa,afken,Kenya,8703626
+2014,af,Africa,aflbr,Liberia,515501
+2014,af,Africa,aflby,Libya,10245398
+2014,af,Africa,aflso,Lesotho,21198
+2014,af,Africa,afmar,Morocco,2135197
+2014,af,Africa,afmdg,Madagascar,431987
+2014,af,Africa,afmli,Mali,231936
+2014,af,Africa,afmoz,Mozambique,3847599
+2014,af,Africa,afmrt,Mauritania,391588
+2014,af,Africa,afmus,Mauritius,11506507
+2014,af,Africa,afmwi,Malawi,357596
+2014,af,Africa,afnam,Namibia,1081879
+2014,af,Africa,afner,Niger,1245448
+2014,af,Africa,afnga,Nigeria,17949682
+2014,af,Africa,afrwa,Rwanda,1014587
+2014,af,Africa,afsdn,Sudan,2276681
+2014,af,Africa,afsen,Senegal,4354188
+2014,af,Africa,afshn,Saint Helena,16255
+2014,af,Africa,afsle,Sierra Leone,70183
+2014,af,Africa,afsom,Somalia,624990
+2014,af,Africa,afssd,South Sudan,872684
+2014,af,Africa,afswz,Eswatini,422233
+2014,af,Africa,afsyc,Seychelles,866439
+2014,af,Africa,aftcd,Chad,22410
+2014,af,Africa,aftgo,Togo,322344
+2014,af,Africa,aftun,Tunisia,17994009
+2014,af,Africa,aftza,Tanzania,2055006
+2014,af,Africa,afuga,Uganda,1190196
+2014,af,Africa,afzaf,South Africa,154798679
+2014,af,Africa,afzmb,Zambia,706576
+2014,af,Africa,afzwe,Zimbabwe,151753
+2014,as,Asia,asare,United Arab Emirates,264633306
+2014,as,Asia,asarm,Armenia,1463583
+2014,as,Asia,asaze,Azerbaijan,15417643
+2014,as,Asia,asbgd,Bangladesh,2235107
+2014,as,Asia,asbhr,Bahrain,31257475
+2014,as,Asia,asbrn,Brunei,28265306
+2014,as,Asia,asbtn,Bhutan,55895
+2014,as,Asia,aschn,China,17817865
+2014,as,Asia,ascyp,Cyprus,53290
+2014,as,Asia,asgeo,Georgia,439069
+2014,as,Asia,ashkg,Hong Kong,2532218
+2014,as,Asia,asidn,Indonesia,726267155
+2014,as,Asia,asind,India,2250912
+2014,as,Asia,asirn,Iran,15551
+2014,as,Asia,asirq,Iraq,19168087
+2014,as,Asia,asisr,Israel,75801627
+2014,as,Asia,asjor,Jordan,6035500
+2014,as,Asia,asjpn,Japan,314290759
+2014,as,Asia,askaz,Kazakhstan,6101030
+2014,as,Asia,askgz,Kyrgyzstan,780703
+2014,as,Asia,askhm,Cambodia,69815994
+2014,as,Asia,askor,South Korea,154656
+2014,as,Asia,askwt,Kuwait,40519907
+2014,as,Asia,aslao,Laos,172373082
+2014,as,Asia,aslbn,Lebanon,28570997
+2014,as,Asia,aslka,Sri Lanka,7982238
+2014,as,Asia,asmac,Macau,1629194
+2014,as,Asia,asmdv,Maldives,141419
+2014,as,Asia,asmmr,Burma,72102705
+2014,as,Asia,asmng,Mongolia,1224271
+2014,as,Asia,asmys,Malaysia,263960874
+2014,as,Asia,asnpl,Nepal,2822526
+2014,as,Asia,asomn,Oman,46657205
+2014,as,Asia,aspak,Pakistan,34257148
+2014,as,Asia,asphl,Philippines,948134972
+2014,as,Asia,asprk,North Korea,138469
+2014,as,Asia,aspse,Palestine,621140
+2014,as,Asia,asqat,Qatar,57461460
+2014,as,Asia,assau,Saudi Arabia,288828265
+2014,as,Asia,assgp,Singapore,89370250
+2014,as,Asia,astjk,Tajikistan,19528
+2014,as,Asia,astls,Timor-Leste,1979118
+2014,as,Asia,astur,Turkey,12775516
+2014,as,Asia,asvnm,Vietnam,39360112
+2014,as,Asia,asxxb,Chinese Taipei,106433
+2014,as,Asia,asyem,Yemen,9247260
+2014,eu,Europe,eualb,Albania,365177
+2014,eu,Europe,euaut,Austria,39924198
+2014,eu,Europe,eubel,Belgium,33246655
+2014,eu,Europe,eubgr,Bulgaria,448509
+2014,eu,Europe,eubih,Bosnia and Herzegovina,4860
+2014,eu,Europe,euche,Switzerland,10225422
+2014,eu,Europe,eucze,Czechia,664046
+2014,eu,Europe,eudeu,Germany,104543497
+2014,eu,Europe,eudnk,Denmark,34515922
+2014,eu,Europe,euesp,Spain,7647852
+2014,eu,Europe,euest,Estonia,55433
+2014,eu,Europe,eufin,Finland,1527963
+2014,eu,Europe,eufra,France,13043288
+2014,eu,Europe,eugbr,United Kingdom,12279290
+2014,eu,Europe,eugrc,Greece,2174285
+2014,eu,Europe,euhrv,Croatia,374315
+2014,eu,Europe,euirl,Ireland,1160539
+2014,eu,Europe,euisl,Iceland,36773
+2014,eu,Europe,euita,Italy,14779641
+2014,eu,Europe,eultu,Lithuania,120065
+2014,eu,Europe,eulux,Luxembourg,772206
+2014,eu,Europe,eulva,Latvia,17195
+2014,eu,Europe,eumda,Moldova,648667
+2014,eu,Europe,eumkd,North Macedonia,239277
+2014,eu,Europe,eumlt,Malta,220042
+2014,eu,Europe,eunld,Netherlands,38444550
+2014,eu,Europe,eunor,Norway,18965129
+2014,eu,Europe,eupol,Poland,7779669
+2014,eu,Europe,euprt,Portugal,7305037
+2014,eu,Europe,eurou,Romania,662290
+2014,eu,Europe,eurus,Russia,314630
+2014,eu,Europe,eusvk,Slovakia,853159
+2014,eu,Europe,eusvn,Slovenia,209100
+2014,eu,Europe,euswe,Sweden,26138712
+2014,eu,Europe,euukr,Ukraine,11051151
+2014,na,North America,naabw,Aruba,2577408
+2014,na,North America,naatg,Antigua and Barbuda,523259
+2014,na,North America,nabhs,Bahamas,1403542
+2014,na,North America,nablz,Belize,207531
+2014,na,North America,nabmu,Bermuda,325062
+2014,na,North America,nabrb,Barbados,3142557
+2014,na,North America,nacan,Canada,36193499
+2014,na,North America,nacri,Costa Rica,36742504
+2014,na,North America,nacuw,Curaï¿½ï,3273838
+2014,na,North America,nacym,Cayman Islands,374360
+2014,na,North America,nadma,Dominica,15025
+2014,na,North America,nadom,Dominican Republic,7382485
+2014,na,North America,nagrd,Grenada,346678
+2014,na,North America,nagtm,Guatemala,23156437
+2014,na,North America,nahnd,Honduras,6225647
+2014,na,North America,nahti,Haiti,987381
+2014,na,North America,najam,Jamaica,12580995
+2014,na,North America,nakna,Saint Kitts and Nevis,519160
+2014,na,North America,nalca,Saint Lucia,232968
+2014,na,North America,namex,Mexico,131344001
+2014,na,North America,nanic,Nicaragua,13005415
+2014,na,North America,napan,Panama,83716390
+2014,na,North America,naslv,El Salvador,5260271
+2014,na,North America,natto,Trinidad and Tobago,34858849
+2014,na,North America,nausa,United States,230029822
+2014,na,North America,navct,Saint Vincent and the Grenadines,35673
+2014,oc,Oceania,ocaus,Australia,1274022126
+2014,oc,Oceania,occok,Cook Islands,11518
+2014,oc,Oceania,ocfji,Fiji,4640743
+2014,oc,Oceania,ockir,Kiribati,185865
+2014,oc,Oceania,ocncl,New Caledonia,22356792
+2014,oc,Oceania,ocnzl,New Zealand,120973185
+2014,oc,Oceania,ocplw,Palau,18582
+2014,oc,Oceania,ocpng,Papua New Guinea,1013087
+2014,oc,Oceania,ocpyf,French Polynesia,10746974
+2014,oc,Oceania,ocslb,Solomon Islands,25880
+2014,oc,Oceania,octon,Tonga,121929
+2014,oc,Oceania,ocvut,Vanuatu,121990
+2014,oc,Oceania,ocwsm,Samoa,342376
+2014,sa,South America,sabol,Bolivia,5410663
+2014,sa,South America,sabra,Brazil,246513
+2014,sa,South America,sachl,Chile,91678613
+2014,sa,South America,sacol,Colombia,13909000
+2014,sa,South America,saecu,Ecuador,507561
+2014,sa,South America,saguy,Guyana,2292201
+2014,sa,South America,saper,Peru,156911888
+2014,sa,South America,sapry,Paraguay,2056370
+2014,sa,South America,sasur,Suriname,2734259
+2014,sa,South America,saury,Uruguay,3344084
+2013,af,Africa,afago,Angola,3730536
+2013,af,Africa,afben,Benin,470159
+2013,af,Africa,afbfa,Burkina Faso,2142411
+2013,af,Africa,afbwa,Botswana,46706
+2013,af,Africa,afcaf,Central African Republic,2251
+2013,af,Africa,afciv,Cote d'Ivoire,4963112
+2013,af,Africa,afcmr,Cameroon,319703
+2013,af,Africa,afcod,Democratic Republic of the Congo,1091942
+2013,af,Africa,afcog,Republic of the Congo,381742
+2013,af,Africa,afcpv,Cape Verde,91690
+2013,af,Africa,afdji,Djibouti,57603
+2013,af,Africa,afdza,Algeria,15858720
+2013,af,Africa,afegy,Egypt,25389829
+2013,af,Africa,afeth,Ethiopia,4201521
+2013,af,Africa,afgab,Gabon,1721451
+2013,af,Africa,afgha,Ghana,5090166
+2013,af,Africa,afgin,Guinea,1839652
+2013,af,Africa,afgmb,Gambia,332406
+2013,af,Africa,afgnb,Guinea-Bissau,154798
+2013,af,Africa,afken,Kenya,9515893
+2013,af,Africa,aflbr,Liberia,408793
+2013,af,Africa,aflby,Libya,47891
+2013,af,Africa,aflso,Lesotho,46599
+2013,af,Africa,afmar,Morocco,5594584
+2013,af,Africa,afmdg,Madagascar,203549
+2013,af,Africa,afmoz,Mozambique,1945089
+2013,af,Africa,afmrt,Mauritania,108690
+2013,af,Africa,afmus,Mauritius,6280988
+2013,af,Africa,afmwi,Malawi,1596826
+2013,af,Africa,afnam,Namibia,1328844
+2013,af,Africa,afner,Niger,898682
+2013,af,Africa,afnga,Nigeria,19186396
+2013,af,Africa,afrwa,Rwanda,873851
+2013,af,Africa,afsdn,Sudan,2321226
+2013,af,Africa,afsen,Senegal,2634059
+2013,af,Africa,afsle,Sierra Leone,20144
+2013,af,Africa,afsom,Somalia,433510
+2013,af,Africa,afswz,Eswatini,43494
+2013,af,Africa,afsyc,Seychelles,578298
+2013,af,Africa,aftgo,Togo,38649
+2013,af,Africa,aftun,Tunisia,1538211
+2013,af,Africa,aftza,Tanzania,1534505
+2013,af,Africa,afuga,Uganda,1575265
+2013,af,Africa,afzaf,South Africa,245849075
+2013,af,Africa,afzmb,Zambia,413800
+2013,af,Africa,afzwe,Zimbabwe,515696
+2013,as,Asia,asafg,Afghanistan,151133311
+2013,as,Asia,asare,United Arab Emirates,221754454
+2013,as,Asia,asarm,Armenia,692249
+2013,as,Asia,asaze,Azerbaijan,13029163
+2013,as,Asia,asbgd,Bangladesh,2579647
+2013,as,Asia,asbhr,Bahrain,28548662
+2013,as,Asia,asbrn,Brunei,53406144
+2013,as,Asia,asbtn,Bhutan,355515
+2013,as,Asia,aschn,China,28441771
+2013,as,Asia,ascyp,Cyprus,1030103
+2013,as,Asia,asgeo,Georgia,78053
+2013,as,Asia,ashkg,Hong Kong,6865913
+2013,as,Asia,asidn,Indonesia,1067398002
+2013,as,Asia,asind,India,1335734
+2013,as,Asia,asirn,Iran,116048
+2013,as,Asia,asirq,Iraq,709586
+2013,as,Asia,asisr,Israel,58401643
+2013,as,Asia,asjor,Jordan,4812538
+2013,as,Asia,asjpn,Japan,486121256
+2013,as,Asia,askaz,Kazakhstan,3261151
+2013,as,Asia,askgz,Kyrgyzstan,427627
+2013,as,Asia,askhm,Cambodia,43363547
+2013,as,Asia,askor,South Korea,372663
+2013,as,Asia,askwt,Kuwait,40067587
+2013,as,Asia,aslao,Laos,143787006
+2013,as,Asia,aslbn,Lebanon,20589854
+2013,as,Asia,aslka,Sri Lanka,10337069
+2013,as,Asia,asmac,Macau,918908
+2013,as,Asia,asmdv,Maldives,145625
+2013,as,Asia,asmmr,Burma,86284506
+2013,as,Asia,asmng,Mongolia,1330341
+2013,as,Asia,asmys,Malaysia,265131419
+2013,as,Asia,asnpl,Nepal,780766
+2013,as,Asia,asomn,Oman,56784703
+2013,as,Asia,aspak,Pakistan,40904103
+2013,as,Asia,asphl,Philippines,711341833
+2013,as,Asia,asprk,North Korea,156559
+2013,as,Asia,aspse,Palestine,4828474
+2013,as,Asia,asqat,Qatar,67622453
+2013,as,Asia,assau,Saudi Arabia,223052553
+2013,as,Asia,assgp,Singapore,34376075
+2013,as,Asia,astls,Timor-Leste,2014478
+2013,as,Asia,astur,Turkey,4153365
+2013,as,Asia,asvnm,Vietnam,9587670
+2013,as,Asia,asxxb,Chinese Taipei,308320
+2013,as,Asia,asyem,Yemen,2164151
+2013,eu,Europe,eualb,Albania,185048
+2013,eu,Europe,euaut,Austria,35435601
+2013,eu,Europe,eubel,Belgium,11732295
+2013,eu,Europe,eubgr,Bulgaria,266446
+2013,eu,Europe,eublr,Belarus,2537600
+2013,eu,Europe,euche,Switzerland,6561039
+2013,eu,Europe,eucze,Czechia,724058
+2013,eu,Europe,eudeu,Germany,67795116
+2013,eu,Europe,eudnk,Denmark,309209
+2013,eu,Europe,euesp,Spain,84213
+2013,eu,Europe,euest,Estonia,721427
+2013,eu,Europe,eufin,Finland,2251108
+2013,eu,Europe,eufra,France,26249540
+2013,eu,Europe,eugbr,United Kingdom,32906114
+2013,eu,Europe,eugrc,Greece,547473
+2013,eu,Europe,euhrv,Croatia,185334
+2013,eu,Europe,euhun,Hungary,401613
+2013,eu,Europe,euirl,Ireland,3032881
+2013,eu,Europe,euita,Italy,6951488
+2013,eu,Europe,eultu,Lithuania,12824
+2013,eu,Europe,eulux,Luxembourg,491498
+2013,eu,Europe,eulva,Latvia,14930
+2013,eu,Europe,eumda,Moldova,965104
+2013,eu,Europe,eumkd,North Macedonia,152543
+2013,eu,Europe,eumlt,Malta,140064
+2013,eu,Europe,eunld,Netherlands,20862358
+2013,eu,Europe,eunor,Norway,13037448
+2013,eu,Europe,eupol,Poland,82924068
+2013,eu,Europe,euprt,Portugal,3673983
+2013,eu,Europe,eurou,Romania,595111
+2013,eu,Europe,eurus,Russia,85492907
+2013,eu,Europe,eusrb,Serbia,3054
+2013,eu,Europe,eusvk,Slovakia,157735
+2013,eu,Europe,euswe,Sweden,3989954
+2013,eu,Europe,euukr,Ukraine,28612557
+2013,na,North America,naabw,Aruba,672007
+2013,na,North America,naatg,Antigua and Barbuda,191376
+2013,na,North America,nabhs,Bahamas,500389
+2013,na,North America,nablz,Belize,43689
+2013,na,North America,nabmu,Bermuda,67026
+2013,na,North America,nabrb,Barbados,899922
+2013,na,North America,nacan,Canada,21551467
+2013,na,North America,nacri,Costa Rica,23492642
+2013,na,North America,nacuw,Curaï¿½ï,274345
+2013,na,North America,nacym,Cayman Islands,264634
+2013,na,North America,nadma,Dominica,80050
+2013,na,North America,nadom,Dominican Republic,1209707
+2013,na,North America,nagrd,Grenada,163466
+2013,na,North America,nagtm,Guatemala,12841946
+2013,na,North America,nahnd,Honduras,4854866
+2013,na,North America,nahti,Haiti,663255
+2013,na,North America,najam,Jamaica,7291388
+2013,na,North America,nakna,Saint Kitts and Nevis,237011
+2013,na,North America,nalca,Saint Lucia,340111
+2013,na,North America,namex,Mexico,84810554
+2013,na,North America,nanic,Nicaragua,4096376
+2013,na,North America,napan,Panama,30660277
+2013,na,North America,naslv,El Salvador,5594103
+2013,na,North America,natto,Trinidad and Tobago,18192646
+2013,na,North America,nausa,United States,105039332
+2013,na,North America,navgb,British Virgin Islands,7221
+2013,oc,Oceania,ocasm,American Samoa,221165
+2013,oc,Oceania,ocaus,Australia,1521402731
+2013,oc,Oceania,ocfji,Fiji,2566825
+2013,oc,Oceania,ocgum,Guam,69400
+2013,oc,Oceania,ockir,Kiribati,67938
+2013,oc,Oceania,ocncl,New Caledonia,30560028
+2013,oc,Oceania,ocnzl,New Zealand,180758070
+2013,oc,Oceania,ocpng,Papua New Guinea,3197465
+2013,oc,Oceania,ocpyf,French Polynesia,17376322
+2013,oc,Oceania,octon,Tonga,417454
+2013,oc,Oceania,ocvut,Vanuatu,110087
+2013,oc,Oceania,ocwsm,Samoa,188475
+2013,sa,South America,sabol,Bolivia,1466438
+2013,sa,South America,sabra,Brazil,178772
+2013,sa,South America,sachl,Chile,44095399
+2013,sa,South America,sacol,Colombia,22792363
+2013,sa,South America,saecu,Ecuador,29471809
+2013,sa,South America,saguy,Guyana,2875478
+2013,sa,South America,saper,Peru,61295761
+2013,sa,South America,sapry,Paraguay,3037802
+2013,sa,South America,sasur,Suriname,2290355
+2013,sa,South America,saury,Uruguay,676197
+2013,sa,South America,saven,Venezuela,103200
+2012,af,Africa,afago,Angola,3290250
+2012,af,Africa,afbdi,Burundi,161301
+2012,af,Africa,afben,Benin,92957
+2012,af,Africa,afbfa,Burkina Faso,1847478
+2012,af,Africa,afbwa,Botswana,16996
+2012,af,Africa,afcaf,Central African Republic,1605
+2012,af,Africa,afciv,Cote d'Ivoire,5293775
+2012,af,Africa,afcmr,Cameroon,1743576
+2012,af,Africa,afcog,Republic of the Congo,4848539
+2012,af,Africa,afcpv,Cape Verde,111648
+2012,af,Africa,afdji,Djibouti,37188
+2012,af,Africa,afdza,Algeria,3436478
+2012,af,Africa,afegy,Egypt,6091776
+2012,af,Africa,afeth,Ethiopia,22238042
+2012,af,Africa,afgab,Gabon,523430
+2012,af,Africa,afgha,Ghana,1224107
+2012,af,Africa,afgin,Guinea,67103
+2012,af,Africa,afgnb,Guinea-Bissau,55734
+2012,af,Africa,afken,Kenya,3563463
+2012,af,Africa,aflbr,Liberia,791179
+2012,af,Africa,aflby,Libya,274215
+2012,af,Africa,afmar,Morocco,8833126
+2012,af,Africa,afmdg,Madagascar,509365
+2012,af,Africa,afmli,Mali,98576
+2012,af,Africa,afmoz,Mozambique,5197849
+2012,af,Africa,afmrt,Mauritania,96100
+2012,af,Africa,afmus,Mauritius,2182363
+2012,af,Africa,afmwi,Malawi,242934
+2012,af,Africa,afnam,Namibia,4187144
+2012,af,Africa,afner,Niger,615267
+2012,af,Africa,afnga,Nigeria,9781680
+2012,af,Africa,afrwa,Rwanda,1439138
+2012,af,Africa,afsdn,Sudan,1831272
+2012,af,Africa,afsen,Senegal,1602605
+2012,af,Africa,afsle,Sierra Leone,334359
+2012,af,Africa,afswz,Eswatini,158661
+2012,af,Africa,afsyc,Seychelles,628431
+2012,af,Africa,aftgo,Togo,45944
+2012,af,Africa,aftun,Tunisia,1254860
+2012,af,Africa,aftza,Tanzania,1140789
+2012,af,Africa,afuga,Uganda,2170441
+2012,af,Africa,afzaf,South Africa,124446526
+2012,af,Africa,afzmb,Zambia,386572
+2012,af,Africa,afzwe,Zimbabwe,2041286
+2012,as,Asia,asafg,Afghanistan,75067602
+2012,as,Asia,asare,United Arab Emirates,94352861
+2012,as,Asia,asarm,Armenia,764098
+2012,as,Asia,asaze,Azerbaijan,12531987
+2012,as,Asia,asbgd,Bangladesh,4624661
+2012,as,Asia,asbhr,Bahrain,6582363
+2012,as,Asia,asbrn,Brunei,55239675
+2012,as,Asia,asbtn,Bhutan,904026
+2012,as,Asia,aschn,China,56809308
+2012,as,Asia,ascyp,Cyprus,2552652
+2012,as,Asia,asgeo,Georgia,276971
+2012,as,Asia,ashkg,Hong Kong,4039098
+2012,as,Asia,asidn,Indonesia,1525753265
+2012,as,Asia,asind,India,14387346
+2012,as,Asia,asisr,Israel,17635216
+2012,as,Asia,asjor,Jordan,953503
+2012,as,Asia,asjpn,Japan,733042392
+2012,as,Asia,askaz,Kazakhstan,5078814
+2012,as,Asia,askgz,Kyrgyzstan,203957
+2012,as,Asia,askhm,Cambodia,28165035
+2012,as,Asia,askor,South Korea,367652
+2012,as,Asia,askwt,Kuwait,20718401
+2012,as,Asia,aslao,Laos,154349762
+2012,as,Asia,aslbn,Lebanon,2003904
+2012,as,Asia,aslka,Sri Lanka,56962633
+2012,as,Asia,asmac,Macau,818662
+2012,as,Asia,asmdv,Maldives,82308
+2012,as,Asia,asmmr,Burma,21277478
+2012,as,Asia,asmng,Mongolia,3345753
+2012,as,Asia,asmys,Malaysia,454601961
+2012,as,Asia,asnpl,Nepal,1629615
+2012,as,Asia,asomn,Oman,8305544
+2012,as,Asia,aspak,Pakistan,31199163
+2012,as,Asia,asphl,Philippines,612852070
+2012,as,Asia,aspse,Palestine,801549
+2012,as,Asia,asqat,Qatar,15701170
+2012,as,Asia,assau,Saudi Arabia,40797452
+2012,as,Asia,assgp,Singapore,40034447
+2012,as,Asia,assyr,Syria,79278
+2012,as,Asia,astls,Timor-Leste,4921676
+2012,as,Asia,astur,Turkey,559888
+2012,as,Asia,asvnm,Vietnam,13715565
+2012,as,Asia,asxxb,Chinese Taipei,63363
+2012,as,Asia,asyem,Yemen,62974748
+2012,eu,Europe,euaut,Austria,15387453
+2012,eu,Europe,eubel,Belgium,8403355
+2012,eu,Europe,eubih,Bosnia and Herzegovina,30035
+2012,eu,Europe,eublr,Belarus,1573400
+2012,eu,Europe,euche,Switzerland,1306820
+2012,eu,Europe,eudeu,Germany,22683417
+2012,eu,Europe,eudnk,Denmark,185318
+2012,eu,Europe,euesp,Spain,874985
+2012,eu,Europe,euest,Estonia,318025
+2012,eu,Europe,eufin,Finland,1175960
+2012,eu,Europe,eufra,France,11108344
+2012,eu,Europe,eugbr,United Kingdom,15093366
+2012,eu,Europe,eugrc,Greece,760780
+2012,eu,Europe,euhrv,Croatia,933310
+2012,eu,Europe,euirl,Ireland,724795
+2012,eu,Europe,euisl,Iceland,44905
+2012,eu,Europe,euita,Italy,317553
+2012,eu,Europe,eulux,Luxembourg,1027473
+2012,eu,Europe,eumda,Moldova,1492347
+2012,eu,Europe,eunld,Netherlands,6210367
+2012,eu,Europe,eunor,Norway,6040885
+2012,eu,Europe,eupol,Poland,13864343
+2012,eu,Europe,euprt,Portugal,66743
+2012,eu,Europe,eurus,Russia,194584862
+2012,eu,Europe,eusrb,Serbia,6440
+2012,eu,Europe,eusvk,Slovakia,69163
+2012,eu,Europe,eusvn,Slovenia,116645
+2012,eu,Europe,euswe,Sweden,30684
+2012,eu,Europe,euukr,Ukraine,28418015
+2012,na,North America,naabw,Aruba,610242
+2012,na,North America,naatg,Antigua and Barbuda,100425
+2012,na,North America,nabhs,Bahamas,342311
+2012,na,North America,nablz,Belize,278674
+2012,na,North America,nabrb,Barbados,363420
+2012,na,North America,nacan,Canada,35064
+2012,na,North America,nacri,Costa Rica,16536179
+2012,na,North America,nacub,Cuba,5000
+2012,na,North America,nacuw,Curaï¿½ï,81811
+2012,na,North America,nacym,Cayman Islands,345682
+2012,na,North America,nadma,Dominica,94600
+2012,na,North America,nadom,Dominican Republic,1471433
+2012,na,North America,nagrd,Grenada,59836
+2012,na,North America,nagtm,Guatemala,11266324
+2012,na,North America,nahnd,Honduras,2931841
+2012,na,North America,nahti,Haiti,490154
+2012,na,North America,najam,Jamaica,5581137
+2012,na,North America,nakna,Saint Kitts and Nevis,343070
+2012,na,North America,nalca,Saint Lucia,233759
+2012,na,North America,namex,Mexico,50881257
+2012,na,North America,nanic,Nicaragua,4154448
+2012,na,North America,napan,Panama,19802991
+2012,na,North America,naslv,El Salvador,3766393
+2012,na,North America,natto,Trinidad and Tobago,18976632
+2012,na,North America,nausa,United States,3760216
+2012,na,North America,navct,Saint Vincent and the Grenadines,40169
+2012,na,North America,navgb,British Virgin Islands,434610
+2012,oc,Oceania,ocaus,Australia,1034389337
+2012,oc,Oceania,ocfji,Fiji,2281888
+2012,oc,Oceania,ocncl,New Caledonia,23285757
+2012,oc,Oceania,ocnzl,New Zealand,116511556
+2012,oc,Oceania,ocpng,Papua New Guinea,7716595
+2012,oc,Oceania,ocpyf,French Polynesia,14569688
+2012,oc,Oceania,ocslb,Solomon Islands,15141
+2012,oc,Oceania,octon,Tonga,512835
+2012,oc,Oceania,ocvut,Vanuatu,109163
+2012,oc,Oceania,ocwsm,Samoa,57792
+2012,sa,South America,saarg,Argentina,1119785
+2012,sa,South America,sabol,Bolivia,2293246
+2012,sa,South America,sabra,Brazil,1207775
+2012,sa,South America,sachl,Chile,20360569
+2012,sa,South America,sacol,Colombia,31420663
+2012,sa,South America,saecu,Ecuador,28108692
+2012,sa,South America,saguy,Guyana,2283408
+2012,sa,South America,saper,Peru,10237465
+2012,sa,South America,sapry,Paraguay,3644583
+2012,sa,South America,sasur,Suriname,3630114
+2012,sa,South America,saury,Uruguay,197139
+2012,sa,South America,saven,Venezuela,2481704
